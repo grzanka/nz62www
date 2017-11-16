@@ -17,3 +17,5 @@ T. Cywicka-Jakiel, L.Stolarczyk, J. Swakoń, P. Olko, M.P.R. Waligórski, Indivi
 L. Stolarczyk, P. Olko, T. Cywicka-Jakiel, M. Ptaszkiewicz, J. Swakoń, B. Dulny, T. Horwacik, B. Obryk, M.P.R. Waligórski, Assessment of undesirable dose to eye-melanoma patients after proton radiotherapy, Radiation Measurements, 2010, (45) 1441-1444
 
 J. Swakoń, P. Olko, D. Adamczyk, T. Cywicka-Jakiel, J. Dąbrowska, B. Dulny, L. Grzanka, T. Horwacik, T. Kajdrowicz, B. Michalec, T. Nowak, M. Ptaszkiewicz, U. Sowa, L. Stolarczyk, M.P.R. Waligórski, Facility for proton radiotherapy of eye cancer at IFJ PAN in Krakow, Radiation Measurements, 2010, (45), 1472-1475
+
+[Warsztaty: "Dozymetria promieniowania wtórnego i rozproszonego w radioterapii protonowej i konwencjonalnej"](https://www.ifj.edu.pl/dept/no5/prp_archive/warsztaty.php) - 04.04.2011 Kraków

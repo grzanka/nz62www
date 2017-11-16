@@ -8,15 +8,23 @@ theme = "docdock"
 #themesdir = "../.."
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+editURL = "https://github.com/grzanka/nz61www/edit/master/content/"
 showVisitedLinks = false # default is false
 themeStyle = "original" # "original" or "flex" # default "original"
 themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = false # default is false
+disableHomeIcon = true # default is false
 disableSearch = true # default is false
 disableNavChevron = true # set true to hide next/prev chevron, default is false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+
+# MARKDOWN
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  angledQuotes = false
+  latexDashes = true
