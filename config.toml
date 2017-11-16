@@ -1,4 +1,4 @@
-baseURL = "http://cacti02-1549.cloud.plgrid.pl/public/"
+baseURL = "http://cacti02-1549.cloud.plgrid.pl/nz61www/public/"
 #baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -15,7 +15,7 @@ themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (defau
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -28,18 +28,3 @@ identifier = "ds"
 url = "https://github.com/vjeantet/hugo-theme-docdock"
 weight = 10
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-camera'></i> Showcases"
-url = "/showcase"
-weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
