@@ -1,4 +1,5 @@
 baseURL = "http://cacti02-1549.cloud.plgrid.pl/public/"
+#baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
@@ -10,7 +11,7 @@ theme = "docdock"
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = true # default is false
 themeStyle = "original" # "original" or "flex" # default "original"
-themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
