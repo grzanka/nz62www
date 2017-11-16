@@ -12,15 +12,17 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 
 Zespół:
-  - dr Leszek Grzanka
-  - prof. dr hab. Paweł Olko
-  - dr inż. Antoni Ruciński
-  - dr inż. Jan Swakoń
-  - prof. dr hab. Michael Waligórski
+
+  * dr Leszek Grzanka
+  * prof. dr hab. Paweł Olko
+  * dr inż. Antoni Ruciński
+  * dr inż. Jan Swakoń
+  * prof. dr hab. Michael Waligórski
 
 
 Doktoranci i studenci:
-  - mgr Magdalena Garbacz
-  - mgr inż. Kinga Jeleń
-  - mgr inż. Agata Toboła-Galus
-  - mgr inż. Agnieszka Wochnik
+
+  * mgr Magdalena Garbacz
+  * mgr inż. Kinga Jeleń
+  * mgr inż. Agata Toboła-Galus
+  * mgr inż. Agnieszka Wochnik
