@@ -1,7 +1,7 @@
-Instytut Fizyki Jądrowej Polskiej Akademii Nauk
----------------------------------------------------------------------------------------------
+<h2>
+Instytut Fizyki Jądrowej Polskiej Akademii Nauk<br>
 Samodzielna Pracownia Radioterapii Protonowej
----------------------------------------------------------------------------------------------
+</h2>
 
 
 W Samodzielniej Pracowni Radioterapii Protonowej prowadzone są prace nad wykorzystaniem wiązek protonowych i jonowych w radioterapii protonowej i  radiobiologii.
@@ -13,7 +13,7 @@ Prowadzone są napromieniania materiału biologicznego, systemów elektronicznyc
 Badane są własności dozymetryczne wiązki protonowej na potrzeby przestrzennie frakcjonowanej radioterapii protonowej, także z wykorzystaniem personalizowanych fantomów  drukowanych metodą  3D.
 
 
-{{% figure class="alignright" src="fot.jpg" title="Foto" %}}
+{{% figure class="alignright" src="fot.jpg"  %}}
 
 ---
 
