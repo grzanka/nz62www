@@ -2,10 +2,11 @@ baseURL = "http://cacti02-1549.cloud.plgrid.pl/nz61www/public/"
 #baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "pl"
-
 title = "Docdock"
 theme = "docdock"
 #themesdir = "../.."
+
+staticDir = ["static"]
 
 [params]
 editURL = "https://github.com/grzanka/nz61www/edit/master/content/"
