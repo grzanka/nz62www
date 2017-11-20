@@ -20,6 +20,12 @@ disableNavChevron = true # set true to hide next/prev chevron, default is false
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[[menu.shortcuts]]
+name = "Zespół"
+identifier = "ds"
+url = "http://cacti02-1549.cloud.plgrid.pl/nz61www/public/zespol/"
+weight = 10
+
 
 # MARKDOWN
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday

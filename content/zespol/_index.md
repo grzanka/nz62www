@@ -2,6 +2,7 @@
 title = "Zespół"
 description = ""
 weight = 10
+hidden=true
 +++
 
 Kierownik: dr inż. Jan Swakoń
