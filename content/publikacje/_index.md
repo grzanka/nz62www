@@ -1,7 +1,7 @@
 +++
 title = "Publikacje"
 description = ""
-weight = 20
+weight = 40
 +++
 
 

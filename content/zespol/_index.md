@@ -1,7 +1,7 @@
 +++
 title = "Zespół"
 description = ""
-weight = 20
+weight = 10
 +++
 
 Kierownik: dr inż. Jan Swakoń
@@ -13,7 +13,7 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 Zespół:
 
-  * dr Leszek Grzanka
+  * [dr Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=pl)
   * prof. dr hab. Paweł Olko
   * dr inż. Antoni Ruciński
   * dr inż. Jan Swakoń
