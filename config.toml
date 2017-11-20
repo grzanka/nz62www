@@ -2,7 +2,7 @@ baseURL = "http://cacti02-1549.cloud.plgrid.pl/nz61www/public/"
 #baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "pl"
-title = "Docdock"
+title = "Samodzielna Pracownia Radioterapii Protonowej"
 theme = "docdock"
 
 [params]
