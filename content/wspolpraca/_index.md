@@ -1,8 +1,8 @@
 +++
-title = "Wspolpraca"
+title = "Współpraca"
 description = ""
 weight = 30
 +++
 
 
-Wspolpraca
+TODO
