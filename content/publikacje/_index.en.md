@@ -1,5 +1,5 @@
 +++
-title = "Publikacje"
+title = "Publications"
 description = ""
 weight = 40
 +++

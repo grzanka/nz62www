@@ -1,4 +1,4 @@
-baseURL = "http://cacti02-1549.cloud.plgrid.pl/nz61www/public/"
+baseURL = "https://www.ifj.edu.pl/dept/no6/nz62/www/"
 #baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "pl"
@@ -11,7 +11,7 @@ showVisitedLinks = false # default is false
 themeStyle = "original" # "original" or "flex" # default "original"
 themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = true # default is false
+disableHomeIcon = false # default is false
 disableSearch = true # default is false
 disableNavChevron = true # set true to hide next/prev chevron, default is false
 
@@ -25,3 +25,12 @@ home = [ "HTML", "RSS", "JSON"]
   hrefTargetBlank = true
   angledQuotes = false
   latexDashes = true
+
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.pl]
+weight = 0
+languageName = "Polski"

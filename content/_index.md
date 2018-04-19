@@ -13,7 +13,7 @@ Prowadzone są napromieniania materiału biologicznego, systemów elektronicznyc
 Badane są własności dozymetryczne wiązki protonowej na potrzeby przestrzennie frakcjonowanej radioterapii protonowej, także z wykorzystaniem personalizowanych fantomów  drukowanych metodą  3D.
 
 
-{{% figure class="alignright" src="fot.jpg"  %}}
+{{% figure class="alignright" src="sprp_logo.jpeg" width="300" %}}
 
 ---
 

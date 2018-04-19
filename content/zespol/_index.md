@@ -6,7 +6,7 @@ weight = 10
 
 Kierownik: dr inż. Jan Swakoń
 
-tel: 12 662 8087
+tel: +48 12 662 8087
 
 e-mail: Jan.Swakon@ifj.edu.pl
 
@@ -23,6 +23,6 @@ Zespół:
 Doktoranci i studenci:
 
   * [mgr Magdalena Garbacz](https://www.ifj.edu.pl/phone/ed_person.php?id=926&lang=pl)
-  * [mgr inż. Kinga Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=924ng=pl)
+  * [mgr inż. Kinga Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=924&ng=pl)
   * [mgr inż. Agata Toboła-Galus](https://www.ifj.edu.pl/phone/ed_person.php?id=833&lang=pl)
   * [mgr inż. Agnieszka Wochnik](https://www.ifj.edu.pl/phone/ed_person.php?id=925&lang=pl)
