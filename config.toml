@@ -4,16 +4,27 @@ languageCode = "en-us"
 DefaultContentLanguage = "pl"
 title = "Samodzielna Pracownia Radioterapii Protonowej"
 theme = "docdock"
+themesdir = "themes"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
 
 [params]
-editURL = "https://github.com/grzanka/nz61www/edit/master/content/"
+editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = false # default is false
-themeStyle = "original" # "original" or "flex" # default "original"
+themeStyle = "original" # "original" or "flex" # default "flex"
 themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = true # default is false
 disableNavChevron = true # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
