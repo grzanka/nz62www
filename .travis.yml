@@ -6,4 +6,4 @@ addons:
 
 script:
   - ls -al themes/docdock
-  - hugo
+  - travis_retry hugo
