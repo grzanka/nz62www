@@ -5,4 +5,5 @@ addons:
     - hugo
 
 script:
-    - hugo
+  - ls -al themes/docdock
+  - hugo
