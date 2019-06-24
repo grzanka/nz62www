@@ -1,0 +1,9 @@
+language: minimal
+
+addons:
+  snaps:
+    - hugo
+
+script:
+  - ls -al themes/docdock
+  - hugo
