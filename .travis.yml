@@ -1,4 +1,8 @@
 language: minimal
 
+addons:
+  snaps:
+    - hugo
+
 script:
-  - snap install hugo
+    - hugo
