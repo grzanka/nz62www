@@ -6,6 +6,11 @@ weight = 20
 
 <H3>Current</H3>
 
+  * INSPIRE
+
+  [Infrastructure in Proton International Research](https://inspire.ifj.edu.pl/en/)
+
+
   * NCBiR Lider
 
   [PET technology for proton beam therapy range monitoring](https://www.ifj.edu.pl/dept/no6/nz62/ar/)

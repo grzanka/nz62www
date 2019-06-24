@@ -22,11 +22,3 @@ Badane są własności dozymetryczne wiązki protonowej na potrzeby przestrzenni
 
 ---
 
-Aktualności
------------
-
-Akt1
-****
-
-Akt2
-****
