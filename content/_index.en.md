@@ -19,12 +19,3 @@ We study and develop the dosimetry of novel radiotherapy modalities, such as act
 
 {{% figure class="alignright" src="../sprp_logo_bare.jpg" width="300" %}}
 ---
-
-News
-----
-
-News1
-*****
-
-News2
-*****
