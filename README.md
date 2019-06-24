@@ -1,2 +1,1 @@
-git clone --recursive https://github.com/grzanka/nz61www.git
-cd nz61www
+[![Build Status](https://travis-ci.com/grzanka/nz61www.svg?branch=master)](https://travis-ci.com/grzanka/nz61www)
