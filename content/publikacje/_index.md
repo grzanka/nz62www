@@ -27,10 +27,6 @@ M. De Saint-Hubert, L.F. de Souza, S. Kodaira, J. Swakoń, L. de Freitas Nascime
 *Luminescence efficiency of Al2O3:C,Mg radiophotoluminescence in charged particle beams,*
 Radiat. Meas., 123 (2019) 54-57, doi: [10.1016/j.radmeas.2018.12.015](http://dx.doi.org/10.1016/j.radmeas.2018.12.015)
 
-J.B. Christensen, E. Almhagen, L. Stolarczyk, M. Liszka, A. Vestergaard,
-*Separating initial and general recombination in reference dosimetry of proton pencil beam scanning,*
-Proffered Paper in: Radiother. Oncol. OC-0294, 133 2019, p. S147-S148, doi: [10.1016/S0167-8140(19)30714-5](http://dx.doi.org/10.1016/S0167-8140(19)30714-5)
-
 A. Banerjee, G.E. Bertolesi, C.-C. Ling, B. Błasiak, A. Purchase, O. Calderon, B. Tomanek, S. Trudel,
 *Bifunctional Pyrrolidin-2-one Terminated Manganese Oxide Nanoparticles for Combined Magnetic Resonance and Fluorescence Imaging,*
 ACS Appl. Mater. Interfaces, 11 (2019) 13069-78, doi: [10.1021/acsami.8b21762](http://dx.doi.org/10.1021/acsami.8b21762)
