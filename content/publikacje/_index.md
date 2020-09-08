@@ -4,8 +4,128 @@ description = ""
 weight = 40
 +++
 
+2020
+****
+
+A. Wochnik, J. Swakoń, P. Olko,
+*Water Equivalence Of Various 3D Printed Materials For Proton Therapy - Monte Carlo Simulation, Treatment Planning Modelling And Validation By Measurements,*
+Acta Phys. Pol. B, 51 (2020) 409-412, doi: [10.5506/APhysPolB.51.409]
+(http://dx.doi.org/10.5506/APhysPolB.51.409)
+
+A. Topi, (R. Kopeć, D. Krzempek, K. Krzempek, P. Olko) et al.,
+*Monitoring Proton Therapy Through In-Beam PET: An Experimental Phantom Study,*
+IEEE T. Rad. Plasma Med. Sci., 4 (2020) 194-201, doi: [10.1109/TRPMS.2019.2924036]
+(http://dx.doi.org/10.1109/TRPMS.2019.2924036)
+
+S. Sharma, (J. Gajewski, A. Ruciński) et al.,
+*Estimating relationship between the time over threshold and energy loss by photons in plastic scintillators used in the J-PET scanner,*
+Eur. J. Nucl. Med. Mol. Imaging, 7 (2020) 39, doi: [10.1186/s40658-020-00306-x]
+(http://dx.doi.org/10.1186/s40658-020-00306-x)
+
+M. Sądel, P. Bilski, M. Sankowska, J. Gajewski, J. Swakoń, T. Horwacik, T. Nowak, M. Kłosowski,
+*Two-dimensional radiation dosimetry based on LiMgPO4 powder embedded into silicone elastomer matrix,*
+Radiat. Meas., 133 (2020) 106255, doi: [10.1016/j.radmeas.2020.106255]
+(http://dx.doi.org/10.1016/j.radmeas.2020.106255)
+
+W. Rühm, (L. Stolarczyk, P. Olko) et al.,
+*The European radiation dosimetry group – Review of recent scientific achievements,*
+Radiat. Phys. Chem., 168 (2020) 108514, doi: [10.1016/j.radphyschem.2019.108514]
+(http://dx.doi.org/10.1016/j.radphyschem.2019.108514)
+
+A. Ruciński, (J. Baran, J. Gajewski, M. Garbacz, M. Pawlik-Niedźwiecka, A. Skrzypek) et al.,
+*Investigations On Physical And Biological Range Uncertainties In Krakow Proton Beam Therapy Centre,*
+Acta Phys. Pol. B, 51 (2020) 9-16, doi: [10.5506/APhysPolB.51.9]
+(http://dx.doi.org/10.5506/APhysPolB.51.9)
+
+G. Reshes, I. Eliyahu, L. Oster, Y.S. Horowitz, S. Biderman, D. Ginsburg, P. Olko, P. Bilski, J. Swakoń, T. Horwacik,
+*Comparison of optical absorption and thermoluminescence in LiF:Mg, TI (TLD-100) following irradiation by high energy protons and 90Sr/90Y beta rays,*
+Radiat. Meas., 132 (2020) 106249, doi: [10.1016/j.radmeas.2020.106249]
+(http://dx.doi.org/10.1016/j.radmeas.2020.106249)
+
+A. Parisi, P. Olko, J. Swakoń, T. Horwacik, H. Jabłoński, L. Malinowski, T. Nowak, L. Struelens, F. Vanhavere,
+*A new method to predict the response of thermoluminescent detectors exposed at different positions within a clinical proton beam,*
+Radiat. Meas., 133 (2020) 106281, doi: [10.1016/j.radmeas.2020.106281]
+(http://dx.doi.org/10.1016/j.radmeas.2020.106281)
+
+A. Parisi, P. Olko, J. Swakoń, T. Horwacik, H. Jabłoński, L. Malinowski, T. Nowak, L. Struelens, F. Vanhavere,
+*Mitigation of the proton-induced low temperature anomaly of LiF:Mg,Cu,P detectors using a post-irradiation pre-readout thermal protocol,*
+Radiat. Meas., 132 (2020) 106233, doi: [10.1016/j.radmeas.2019.106233]
+(http://dx.doi.org/10.1016/j.radmeas.2019.106233)
+
+A. Parisi, P. Olko, J. Swakoń, T. Horwacik, H. Jabłoński, L. Malinowski, T. Nowak, L. Struelens, F. Vanhavere,
+*Modeling the radiation-induced cell death in a therapeutic proton beam using thermoluminescent detectors and radiation transport simulations,*
+Phys. Med. Biol., 65 (2020) 015008, doi: [10.1088/1361-6560/ab491f]
+(http://dx.doi.org/10.1088/1361-6560/ab491f)
+
+P. Olko, M. Jeżabek, R. Kopeć, A. Maj,
+*Centrum Cyklotronowe Bronowice – od fizyki do medycyny,*
+Pauza Akademicka, 520 (2020) 5-6,
+
+M. Obrzut, B. Obrzut, M. Zmuda, J. Baran, Ma. Cholewa, R.L. Ehman, D. Darmochwal-Kolarz,
+*Uterine leiomyomas: correlation between histologic composition and stiffness via magnetic resonance elastography — a Pilot Study,*
+Ginekol. Pol., 91 (2020) 373-378, doi: [10.5603/GP.a2020.0067]
+(http://dx.doi.org/10.5603/GP.a2020.0067)
+
+P. Moskal, (J. Gajewski, A. Ruciński) et al.,
+*Performance assessment of the 2γ positronium imaging with the total-body PET scanners,*
+Eur. J. Nucl. Med. Mol. Imaging, 7 (2020) 44, doi: [10.1186/s40658-020-00307-w]
+(http://dx.doi.org/10.1186/s40658-020-00307-w)
+
+K. Jeleń, L. Grzanka, P. Olko,
+*Uncertainty Of RBE Model In Proton Radiotherapy Based On α/β Ratio And Linear Energy Transfer,*
+Acta Phys. Pol. B, 51 (2020) 405-408, doi: [10.5506/APhysPolB.51.405]
+(http://dx.doi.org/10.5506/APhysPolB.51.405)
+
+L. Grzanka, M.P.R. Waligórski,
+*Comment to the article “Inactivation cross section induced by heavy ions of different energies in bacterial cells of E. coli: An analytical approach” by Awad and Abu-Shady,*
+Nucl. Instr. Meth. B, 473 (2020) 62-63, doi: [10.1016/j.nimb.2020.02.011]
+(http://dx.doi.org/10.1016/j.nimb.2020.02.011)
+
+A. Bogdali-Suślik, (J. Miszczyk, A. Panek, M. Woźniak, J. Swakoń, W. Komenda, N. Mojżeszek, T. Kajdrowicz, R. Kopeć, P. Olko) et al.,
+*Influence of Therapeutic Proton Beam on Glioblastoma Multiforme Proliferation Index — A Preliminary Study,*
+Acta Phys. Pol. A, 137 (2020) 64-69, doi: [10.12693/APhysPolA.137.64]
+(http://dx.doi.org/10.12693/APhysPolA.137.64)
+
+
 2019
 ****
+
+J. Swakoń,
+*Zastosowanie wiązek z cyklotronów AIC-144 i Proteus C-235 do radioterapii protonowej nowotworów oka w IFJ PAN,*
+(IFJ PAN) ISBN: 978-83-63542-06-1, (2019) 1-293,
+
+M. Stock, (T. Kajdrowicz, R. Kopeć, P. Olko, K. Skowrońska, U. Sowa) et al.,
+*Harmonization of proton planning for head and neck cancer using PBS: First report of the IPACS collaboration,*
+Poster in: Radiother. Oncol. PO-0943, 133 2019, p. S508-S509, doi: [10.1016/S0167-8140(19)31363-5]
+(http://dx.doi.org/10.1016/S0167-8140(19)31363-5)
+
+M. Stock, (T. Kajdrowicz, R. Kopeć, G. Mierzwińska, P. Olko, K. Skowrońska, U. Sowa) et al.,
+*Harmonization of proton treatment planning for head and neck cancer using pencil beam scanning: first report of the IPACS collaboration group,*
+Acta Oncol., 58 (2019) 1720-1730, doi: [10.1080/0284186X.2019.1648858]
+(http://dx.doi.org/10.1080/0284186X.2019.1648858)
+
+A. Ruciński, J. Baran, M. Garbacz, M. Pawlik-Niedźwiecka, P. Moskal,
+*Plastic-scintillator based PET detector for proton beam therapy range monitoring: preliminary study,*
+Poster in: Radiother. Oncol. PV-0480, 133 2019, p. S246-S247, doi: [10.1016/S0167-8140(19)30900-4]
+(http://dx.doi.org/10.1016/S0167-8140(19)30900-4)
+
+A. Ruciński, (J. Baran, J. Gajewski, M. Garbacz, R. Kopeć, G. Mierzwińska, N. Mojżeszek, M. Pawlik-Niedźwiecka, A. Skrzypek) et al.,
+*GPU-Accelerated Monte Carlo Code FRED for Clinical Application in Proton Therapy,*
+Abstr. in: Med. Phys., Annual Meeting of the American-Association-of-Physicists-in-Medicine (AAPM), San Antonio, TX, USA, JUL 14-18, 2019, MO-K-301-0, 46 2019, p. E279,
+
+A. Ruciński et al.,
+*Secondary radiation measurements for particle therapy applications: Charged secondaries produced by 16O ion beams in a PMMA target at large angles,*
+Phys. Medica, 64 (2019) 45-53, doi: [10.1016/j.ejmp.2019.06.001]
+(http://dx.doi.org/10.1016/j.ejmp.2019.06.001)
+
+A.R. Purchase, T. Pałasz, H. Sun, J.C. Sharp, B. Tomanek,
+*A high duty-cycle, multi-channel, power amplifier for high-resolution radiofrequency encoded magnetic resonance imaging,*
+Magn. Reson. Mater. Phy., 32 (2019) 679-692, doi: [10.1007/s10334-019-00763-1]
+(http://dx.doi.org/10.1007/s10334-019-00763-1)
+
+P. Olko,
+*Radioterapia protonowa przyszłości - w czym może pomóc fizyka jądrowa?,*
+Abstr. of the 45th General Meeting of Polish Physicists (XLV Zjazd Fizyków Polskich), Kraków: UJ, 13-18 Sept. 2019, 2019, p. 98,
 
 S. Nielsen, N. Bassler, L. Grzanka, L. Laursen, J. Swakoń, P. Olko, C.N. Andreassen, J. Alsner, B. Singers Sørensen,
 *Comparison of Coding Transcriptomes in Fibroblasts Irradiated With Low and High LET Proton Beams and Cobalt-60 Photons,*
@@ -23,13 +143,50 @@ L. Grzanka, M.P.R. Waligórski, N. Bassler,
 *The Role Of Particle Spectra In Modeling The Relative Biological Effectiveness Of Proton Radiotherapy Beams,*
 Radiat. Prot. Dosim., 183 (2019) 251-254, doi: [10.1093/rpd/ncy268](http://dx.doi.org/10.1093/rpd/ncy268)
 
+L. Grzanka, K. Jeleń, M.P.R. Waligórski,
+*Towards incorporation of RBE uncertainty in proton therapy planning systems,*
+IFJ Report, 2102/AP (2019) 1-16,
+
+M. Garbacz, (J. Gajewski, A. Ruciński) et al.,
+*Proton Therapy Treatment Plan Verification in CCB Krakow Using Fred Monte Carlo TPS Tool,*
+Chapter in: Proc. of World Congress on Medical Physics and Biomedical Engineering 2018, ed. by L. Lhotska, L. Sukupova, I. Lacković, G.S. Ibbott, June 3-8, 2018, Prague, Czech Republic (Vol.68/1) Springer, Singapore, 2019, 1 (2019) 783-787, doi: [10.1007/978-981-10-9035-6_144]
+(http://dx.doi.org/10.1007/978-981-10-9035-6_144)
+
 M. De Saint-Hubert, L.F. de Souza, S. Kodaira, J. Swakoń, L. de Freitas Nascimento,
 *Luminescence efficiency of Al2O3:C,Mg radiophotoluminescence in charged particle beams,*
 Radiat. Meas., 123 (2019) 54-57, doi: [10.1016/j.radmeas.2018.12.015](http://dx.doi.org/10.1016/j.radmeas.2018.12.015)
 
+K. Czerska, P. Winczura, J. Wejs-Maternik, A. Blukis, M. Antonowicz-Szydłowska, A. Ruciński, P. Olko, R. Kopeć, A. Badzio,
+*Proton vs photon deep inspiration breathhold planning study for left-sided breast cancer patients,*
+Poster in: Radiother. Oncol. EP-1877, 133 2019, p. S1019, doi: [10.1016/S0167-8140(19)32297-2]
+(http://dx.doi.org/10.1016/S0167-8140(19)32297-2)
+
+A. Bogdali-Suślik, (J. Miszczyk, M. Woźniak, A. Panek, J. Swakoń, W. Komenda, N. Mojżeszek, T. Kajdrowicz, R. Kopeć, P. Olko) et al.,
+*Influence of therapeutic proton beam on glioblastoma multiforme proliferation index – preliminary study,*
+Book of Abstr. of the LIV Zakopane School of Physics Breaking Frontiers: Submicron Structures in Physics and Biology, May 21st-25th, 2019, Zakopane, Poland, 2019, p. 90,
+
+B. Błasiak, F.C.J.M. van Veggel, A. Dash, J. Matyas, D. Ponjevic, A. Banerjee, S. Trudel, G.R. Sutherland, B. Tomanek,
+*Molecular Imaging of Cancer using Targeted Contrast Agents,*
+Book of Abstr. of the 10th Kraków Workshop on Novel Applications of Imaging and Spectroscopy in Medicine, Biology and Material Sciences, 23-25 September 2019, Kraków, 2019, p. 9,
+
+J. Baran, J. Gajewski, M. Pawlik-Niedźwiecka, P. Moskal, A. Ruciński,
+*Studies of J-PET detector to monitor range uncertainty in proton therapy,*
+Proc. of the 2019 IEEE Nuclear Science Symposium and Medical Imaging Conference, 26 Oct-2 Nov, 2019, Manchester, UK, (2019) 9059793, doi: [10.1109/NSS/MIC42101.2019.9059793]
+(http://dx.doi.org/10.1109/NSS/MIC42101.2019.9059793)
+
+A. Banerjee, W. Zeng, M. Taheri, B. Błasiak, B. Tomanek, S. Trudel,
+*Shape-controlled MnO nanoparticles as T1 MRI contrast agents,*
+AIP Adv., 9 (2019) 125031, doi: [10.1063/1.5129944]
+(http://dx.doi.org/10.1063/1.5129944)
+
 A. Banerjee, G.E. Bertolesi, C.-C. Ling, B. Błasiak, A. Purchase, O. Calderon, B. Tomanek, S. Trudel,
 *Bifunctional Pyrrolidin-2-one Terminated Manganese Oxide Nanoparticles for Combined Magnetic Resonance and Fluorescence Imaging,*
 ACS Appl. Mater. Interfaces, 11 (2019) 13069-78, doi: [10.1021/acsami.8b21762](http://dx.doi.org/10.1021/acsami.8b21762)
+
+J.G. Alves, (L. Stolarczyk, P. Olko) et al.,
+*EURADOS education and training activities,*
+Review in: J. Radiol. Prot., 39 (2019) R37-R50, doi: [10.1088/1361-6498/ab3256]
+(http://dx.doi.org/10.1088/1361-6498/ab3256)
 
 2018
 ****
