@@ -1,15 +1,15 @@
 +++
-title = "Samodzielna Pracownia Radioterapii Protonowej"
+title = "Zakład Badań Radiacyjnych i Radioterapii Protonowej"
 description = ""
 +++
 
 <h2>
 Instytut Fizyki Jądrowej Polskiej Akademii Nauk<br>
-Samodzielna Pracownia Radioterapii Protonowej
+Zakład Badań Radiacyjnych i Radioterapii Protonowej
 </h2>
 
 
-W Samodzielniej Pracowni Radioterapii Protonowej prowadzone są prace nad wykorzystaniem wiązek protonowych i jonowych w radioterapii protonowej i  radiobiologii.
+W Zakładzie Badań Radiacyjnych i Radioterapii Protonowej prowadzone są prace nad wykorzystaniem wiązek protonowych i jonowych w radioterapii protonowej i  radiobiologii.
 
 Opracowywane są nowe modele radiobiologiczne oraz systemy transportu wiązek protonowych i węglowych dla interpretacji wyników eksperymentów radiobiologicznych oraz dla rozwoju systemów planowania leczenia w radioterapii.
 
