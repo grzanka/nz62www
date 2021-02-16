@@ -45,6 +45,7 @@ jobs:
       uses: ncipollo/release-action@v1.7.3
       if: startsWith(github.ref, 'refs/tags/')
       with:
+        allowUpdates:  true
         # An optional set of paths representing artifacts to upload to the release. This may be a single path or a comma delimited list of paths (or globs)
         artifacts: './docs*'
         # The Github token.
