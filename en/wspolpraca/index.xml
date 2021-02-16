@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on </title>
-    <link>nz62www/en/wspolpraca/</link>
+    <link>https://grzanka.github.io/nz62www/en/wspolpraca/</link>
     <description>Recent content in Collaboration on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="nz62www/en/wspolpraca/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grzanka.github.io/nz62www/en/wspolpraca/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

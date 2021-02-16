@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proton Radiotherapy Group on </title>
-    <link>nz62www/en/</link>
+    <link>https://grzanka.github.io/nz62www/en/</link>
     <description>Recent content in Proton Radiotherapy Group on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="nz62www/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grzanka.github.io/nz62www/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>header</title>
-      <link>nz62www/en/_header/</link>
+      <link>https://grzanka.github.io/nz62www/en/_header/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>nz62www/en/_header/</guid>
+      <guid>https://grzanka.github.io/nz62www/en/_header/</guid>
       <description>  </description>
     </item>
     
