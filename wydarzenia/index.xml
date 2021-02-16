@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on </title>
+    <title>Aktualności on </title>
     <link>https://grzanka.github.io/nz62www/wydarzenia/</link>
-    <description>Recent content in News on </description>
+    <description>Recent content in Aktualności on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://grzanka.github.io/nz62www/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
   </channel>
