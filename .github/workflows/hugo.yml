@@ -28,7 +28,7 @@ jobs:
         extended: false
     
     - name: Build
-      run: hugo --minify -d docs/
+      run: hugo -b "nz62www" -d docs/
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
