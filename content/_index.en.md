@@ -5,11 +5,11 @@ description = ""
 
 <h2>
 Institute of Nuclear Physics Polish Academy of Sciences<br>
-Proton Radiotherapy Group
+Department of Radiation Research and Proton Radiotherapy
 </h2>
 
 
-The Proton Radiotherapy Group is engaged in the design and application of beams of protons and heavier ions in cancer radiotherapy, experimental radiobiology and radiation damage of solid-state systems.
+The Department of Radiation Research and Proton Radiotherapy is engaged in the design and application of beams of protons and heavier ions in cancer radiotherapy, experimental radiobiology and radiation damage of solid-state systems.
 
 We develop radiobiological models and systems of ion beam transport in order to design radiobiological experiments and to interpret their results. Proton and ion beam radiotherapy planning systems are also under development, applying our models of beam transport and our radiobiology-based models of cancer radiotherapy.
 
