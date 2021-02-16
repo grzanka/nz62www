@@ -4,7 +4,7 @@ description = ""
 weight = 10
 +++
 
-Department Head: Ph.D., Eng. Jan Swakoń
+Department Head: Assoc. Prof. Jan Swakoń
 
 phone: +48 12 662 8087
 
