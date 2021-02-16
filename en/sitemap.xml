@@ -1,1 +1,132 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/zespol/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/zespol/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/zespol/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/projekty/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/projekty/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/projekty/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/wspolpraca/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/wspolpraca/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/wspolpraca/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/publikacje/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/publikacje/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/publikacje/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/kontakt/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/kontakt/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/kontakt/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/_header/</loc><lastmod>2017-04-24T18:36:24+02:00</lastmod><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/_header/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/_header/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/categories/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/categories/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/categories/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/"/></url><url><loc>https://www.ifj.edu.pl/dept/no6/nz62/www/en/tags/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://www.ifj.edu.pl/dept/no6/nz62/www/tags/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/tags/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>nz62www/en/zespol/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/zespol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/zespol/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/projekty/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/projekty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/projekty/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/wspolpraca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/wspolpraca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/wspolpraca/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/publikacje/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/publikacje/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/publikacje/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/kontakt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/kontakt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/kontakt/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/_header/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/_header/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/_header/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>nz62www/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="nz62www/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="nz62www/en/tags/"
+                />
+  </url>
+  
+</urlset>

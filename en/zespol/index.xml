@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Team on</title><link>https://www.ifj.edu.pl/dept/no6/nz62/www/en/zespol/</link><description>Recent content in Team on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.ifj.edu.pl/dept/no6/nz62/www/en/zespol/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on </title>
+    <link>nz62www/en/zespol/</link>
+    <description>Recent content in Team on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="nz62www/en/zespol/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
