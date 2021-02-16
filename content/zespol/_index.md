@@ -4,7 +4,7 @@ description = ""
 weight = 10
 +++
 
-Kierownik: dr inż. Jan Swakoń
+Kierownik: dr hab. inż. Jan Swakoń
 
 tel: +48 12 662 8087
 
@@ -17,6 +17,7 @@ Zespół:
   * [dr Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=pl)
   * [Łukasz Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=1035&lang=pl)
   * [prof. dr hab. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=pl)
+  * [dr Barbara Orzechowska](https://www.ifj.edu.pl/phone/ed_person.php?id=677&lang=pl)
   * [dr Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=pl)
   * [dr inż. Antoni Ruciński](https://www.ifj.edu.pl/phone/ed_person.php?id=887&lang=pl)
   * [dr inż. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=pl)
