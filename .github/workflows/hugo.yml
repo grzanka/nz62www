@@ -30,7 +30,7 @@ jobs:
         # Download (if necessary) and use Hugo extended version. Example: true
         extended: false
     
-    - name: Build
+    - name: Build for GH Pages
       run: hugo -b "https://grzanka.github.io/nz62www" -d docs/
 
     - name: Deploy
@@ -39,8 +39,11 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs
         
+    - name: Build for IFJ server
+      run: hugo 
+
     - name: Package release
-      run: tar -zcf page.tar.gz docs/*
+      run: tar -zcf page.tar.gz public/*
       
     - name: Create Release
       # You may pin to the exact commit or the version.
