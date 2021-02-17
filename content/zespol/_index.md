@@ -18,6 +18,7 @@ Zespół:
   * [Łukasz Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=1035&lang=pl)
   * [prof. dr hab. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=pl)
   * [dr Barbara Orzechowska](https://www.ifj.edu.pl/phone/ed_person.php?id=677&lang=pl)
+  * [mgr inż. Anna Pędracka](https://www.ifj.edu.pl/phone/ed_person.php?id=673&lang=pl)
   * [dr Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=pl)
   * [dr inż. Antoni Ruciński](https://www.ifj.edu.pl/phone/ed_person.php?id=887&lang=pl)
   * [dr inż. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=pl)
