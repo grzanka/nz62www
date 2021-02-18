@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-weight = 50
+weight = 60
 +++
 
 <H3>Secretariat:</H3>
