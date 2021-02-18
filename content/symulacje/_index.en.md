@@ -10,5 +10,6 @@ weight = 50
  
 * PyTRiP98 
 
-  [Python library](https://github.com/pytrip/pytrip) for working with research TPS TRiP98 and VOXELPLAN data files. 
+  [Python library](https://github.com/pytrip/pytrip) for working with research TPS TRiP98 and VOXELPLAN data files.
+  
   [Experimental GUI](https://github.com/pytrip/pytripgui)
