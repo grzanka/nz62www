@@ -18,7 +18,6 @@ Team:
   * [Ph.D. Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=en)
   * [Łukasz Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=1035&ng=en)
   * [Prof. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=en)
-  * [Ph.D, Barbara Orzechowska](https://www.ifj.edu.pl/phone/ed_person.php?id=677&lang=en)
   * [Ph.D, Eng. Anna Pędracka](https://www.ifj.edu.pl/phone/ed_person.php?id=673&lang=en)
   * [Ph.D, Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=en)
   * [Assoc. Prof. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=en)
