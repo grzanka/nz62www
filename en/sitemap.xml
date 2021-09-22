@@ -1,80 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://grzanka.github.io/nz62www/zespol/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/projekty/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/wydarzenia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/wspolpraca/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/publikacje/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/symulacje/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/_header/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/categories/</loc>
+    <loc>https://grzanka.github.io/nz62www/en/zespol/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://grzanka.github.io/nz62www/pl/categories/"
+                href="https://grzanka.github.io/nz62www/zespol/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/zespol/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/projekty/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/projekty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/projekty/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/wydarzenia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/wydarzenia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/wydarzenia/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/wspolpraca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/wspolpraca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/wspolpraca/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/publikacje/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/publikacje/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/publikacje/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/symulacje/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/symulacje/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/symulacje/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/kontakt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/kontakt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/kontakt/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/_header/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/_header/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/_header/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="https://grzanka.github.io/nz62www/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://grzanka.github.io/nz62www/pl/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/categories/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="https://grzanka.github.io/nz62www/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://grzanka.github.io/nz62www/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/en/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://grzanka.github.io/nz62www/pl/tags/"
+                href="https://grzanka.github.io/nz62www/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grzanka.github.io/nz62www/tags/"
+                href="https://grzanka.github.io/nz62www/en/tags/"
                 />
   </url>
-  
 </urlset>
