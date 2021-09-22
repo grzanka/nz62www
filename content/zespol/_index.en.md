@@ -22,7 +22,7 @@ Team:
   * [Ph.D, Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=en)
   * [Assoc. Prof. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=en)
   * [Prof. Bogusław Tomanek](https://www.ifj.edu.pl/phone/ed_person.php?id=717&lang=en)
-  * [Prof. Michael Waligórski](https://www.ifj.edu.pl/phone/ed_person.php?id=548&lang=en)
+  * Prof. Michael Waligórski
   * [M.Sc. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=en)
 
   

@@ -13,8 +13,6 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 Zespół:
 
-  * [mgr Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=pl)
-  * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
   * [dr Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=pl)
   * [Łukasz Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=1035&lang=pl)
   * [prof. dr hab. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=pl)
@@ -22,7 +20,7 @@ Zespół:
   * [dr Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=pl)
   * [dr inż. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=pl)
   * [prof dr hab. Bogusław Tomanek](https://www.ifj.edu.pl/phone/ed_person.php?id=717&lang=pl)
-  * [prof. dr hab. Michael Waligórski](https://www.ifj.edu.pl/phone/ed_person.php?id=548&lang=pl)
+  * prof. dr hab. Michael Waligórski
   * [mgr Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=pl)
 
   
