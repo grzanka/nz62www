@@ -1,30 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90b43851-3334-4838-91c0-c09f9b3ccce5" name="Default" comment="" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="90b43851-3334-4838-91c0-c09f9b3ccce5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nz61www.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_header.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/_header.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_header.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/_header.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/kontakt/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/kontakt/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projekty/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/projekty/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projekty/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/projekty/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publikacje/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/publikacje/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publikacje/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/publikacje/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/symulacje/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/symulacje/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/symulacje/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/symulacje/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/wspolpraca/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/wspolpraca/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/wspolpraca/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/wspolpraca/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/wydarzenia/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/wydarzenia/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/wydarzenia/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/wydarzenia/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/zespol/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/zespol/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/zespol/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/polish/zespol/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.gitkeep" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dependabot/submodules/themes/docdock-d15e520" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="ProjectId" id="1yWsk0BuC0Di7z3wSQW9lP0b7jH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/polish" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Legion\WebstormProjects\nz62www\content\polish" />
+      <recent name="C:\Users\Legion\WebstormProjects\nz62www\content\english" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Legion\WebstormProjects\nz62www\content\polish" />
+      <recent name="C:\Users\Legion\WebstormProjects\nz62www\content\english" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <created>1510865016015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510865016015</updated>
+      <workItem from="1632378820301" duration="2745000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
   </component>
 </project>
