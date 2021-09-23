@@ -1,9 +1,0 @@
-language: minimal
-
-addons:
-  snaps:
-    - hugo
-
-script:
-  - ls -al themes/docdock
-  - travis_retry hugo
