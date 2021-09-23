@@ -86,19 +86,6 @@
                 href="https://grzanka.github.io/nz62www/pl/kontakt/"
                 />
   </url><url>
-    <loc>https://grzanka.github.io/nz62www/pl/_header/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://grzanka.github.io/nz62www/_header/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://grzanka.github.io/nz62www/pl/_header/"
-                />
-  </url><url>
     <loc>https://grzanka.github.io/nz62www/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,6 +96,18 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://grzanka.github.io/nz62www/pl/categories/"
+                />
+  </url><url>
+    <loc>https://grzanka.github.io/nz62www/pl/_header/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/_header/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/pl/_header/"
                 />
   </url><url>
     <loc>https://grzanka.github.io/nz62www/pl/tags/</loc>
