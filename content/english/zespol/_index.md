@@ -13,18 +13,17 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 Team:
 
-  * [Ph.D., Eng. Jan Gajewski](https://www.ifj.edu.pl/phone/ed_person.php?id=117&lang=en)
+  * [M.Sc. Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=en)
+  * [M.Sc. Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=en)
   * [Ph.D. Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=en)
   * [Łukasz Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=1035&ng=en)
   * [Prof. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=en)
-  * [Ph.D, Barbara Orzechowska](https://www.ifj.edu.pl/phone/ed_person.php?id=677&lang=en)
   * [Ph.D, Eng. Anna Pędracka](https://www.ifj.edu.pl/phone/ed_person.php?id=673&lang=en)
   * [Ph.D, Kamila Rawojć](https://www.ifj.edu.pl/phone/ed_person.php?id=1066&lang=en)
-  * [Ph.D., Eng. Antoni Ruciński](https://www.ifj.edu.pl/phone/ed_person.php?id=887&lang=en)
   * [Assoc. Prof. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=en)
   * [Prof. Bogusław Tomanek](https://www.ifj.edu.pl/phone/ed_person.php?id=717&lang=en)
-  * [Prof. Michael Waligórski](https://www.ifj.edu.pl/phone/ed_person.php?id=548&lang=en)
-
+  * Prof. Michael Waligórski
+  * [M.Sc. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=en)
   
 PhD and MSc students:
 
