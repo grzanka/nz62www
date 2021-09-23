@@ -1,15 +1,11 @@
-baseURL = "https://www.ifj.edu.pl/dept/no6/nz62/www/"
-#baseURL = "/"
-languageCode = "en-us"
-DefaultContentLanguage = "pl"
+#baseURL = "https://www.ifj.edu.pl/dept/no6/nz62/www/"
+baseURL = ""
 ##title = "Zakład Badań Radiacyjnych i Radioterapii Protonowej"
 theme = "docdock"
 themesdir = "themes"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 
@@ -29,19 +25,17 @@ enableGitInfo = false
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-# MARKDOWN
-## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
-[blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true
-  angledQuotes = false
-  latexDashes = true
+languageCode = "en-EN"
+defaultContentLanguage = "pl"
+defaultContentLanguageInSubdir= true
+[languages]
+  [languages.pl]
+    weight = 2
+    contentDir = 'content/polish'
+    languageName = "Polski"
 
+  [languages.en]
+    weight = 1
+    contentDir = 'content/english'
+    languageName = "English"
 
-[languages.en]
-weight = 0
-languageName = "English"
-
-[languages.pl]
-weight = 0
-languageName = "Polski"
