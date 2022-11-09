@@ -13,6 +13,7 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 Zespół:
 
+  * [mgr Tomasz Kajdrowicz](https://www.ifj.edu.pl/phone/ed_person.php?id=187&lang=pl)
   * [mgr Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=pl)
   * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
   * [dr Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=pl)
@@ -24,7 +25,5 @@ Zespół:
   
 Doktoranci i studenci:
 
-  * [mgr Magdalena Garbacz](https://www.ifj.edu.pl/phone/ed_person.php?id=926&lang=pl)
-  * [mgr inż. Kinga Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=924&ng=pl)
   * [mgr inż. Agata Toboła-Galus](https://www.ifj.edu.pl/phone/ed_person.php?id=833&lang=pl)
   * [mgr inż. Agnieszka Wochnik](https://www.ifj.edu.pl/phone/ed_person.php?id=925&lang=pl)
