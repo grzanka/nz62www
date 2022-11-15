@@ -27,7 +27,26 @@ sudo apt install hugo
 
 Generate the website:
 
-```
+```bash
 cd nz62www
 hugo
+```
+
+Make a mirror of existing website:
+
+```bash
+lftp sftp://USERNAME:PASSWORD@web.ifj.edu.pl:PORT -e 'mirror --verbose --use-pget-n=8 -c /nz62 /sftp/grzanka/nz62www/backup/nz62_20221115'
+```
+
+Deploy genereated website:
+
+```bash
+lftp sftp://USERNAME:PASSWORD@web.ifj.edu.pl:PORT -e 'mirror -R --verbose --use-pget-n=8 -c /sftp/grzanka/nz62www/public/ /nz62/'
+```
+
+Fix permissions:
+
+```bash
+cd nz62
+chmod -R o+rx .
 ```
