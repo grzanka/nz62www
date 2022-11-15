@@ -13,6 +13,7 @@ e-mail: Jan.Swakon@ifj.edu.pl
 
 Team:
 
+  * [M.Sc. Tomasz Kajdrowicz](https://www.ifj.edu.pl/phone/ed_person.php?id=187&lang=en)
   * [M.Sc. Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=en)
   * [M.Sc. Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=en)
   * [Ph.D. Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=en)
@@ -24,7 +25,5 @@ Team:
   
 PhD and MSc students:
 
-  * [M.Sc. Magdalena Garbacz](https://www.ifj.edu.pl/phone/ed_person.php?id=926&lang=en)
-  * [M.Sc., Eng. Kinga Jeleń](https://www.ifj.edu.pl/phone/ed_person.php?id=924&ng=en)
   * [M.Sc., Eng. Agata Toboła-Galus](https://www.ifj.edu.pl/phone/ed_person.php?id=833&lang=en)
   * [M.Sc., Eng. Agnieszka Wochnik](https://www.ifj.edu.pl/phone/ed_person.php?id=925&lang=en)
