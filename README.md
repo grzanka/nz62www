@@ -22,14 +22,12 @@ sudo snap install hugo
 or:
 
 ```bash
-cd nz62www
-python3 -m venv venv
-source venv/bin/activate
-pip install hugo
+sudo apt install hugo
 ```
 
 Generate the website:
 
 ```
+cd nz62www
 hugo
 ```
