@@ -1,7 +1,7 @@
 +++
 title = "Collaboration"
 description = ""
-weight = 30
+weight = 15
 +++
 
 UNDER CONSTRUCTION

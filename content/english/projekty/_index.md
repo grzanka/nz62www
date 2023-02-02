@@ -6,6 +6,12 @@ weight = 20
 
 <H3>Current</H3>
 
+  * EURO-LABS
+  
+[EUROLABS]({{< ref "#eurolabs" >}})
+
+
+
   * INSPIRE
 
   [Infrastructure in Proton International Research](https://inspire.ifj.edu.pl/en/)
@@ -33,3 +39,5 @@ weight = 20
   * Project POMOST - FNP, PO IG 2007-2013
 
   EPR/alanine dosimetry for therapeutical ion beams
+
+
