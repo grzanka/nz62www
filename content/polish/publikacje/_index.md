@@ -4,6 +4,111 @@ description = ""
 weight = 40
 +++
 
+2023
+****
+N. De Angelis, (T. Kowalski, S. Kusyk, J. Swakoń, D. Wróbel) et al., Temperature dependence of radiation damage annealing of Silicon Photomultipliers, Nucl. Instr. Meth. A, 1048 (2023) 167934, doi: 10.1016/j.nima.2022.167934, tekst pracy: https://www.sciencedirect.com/science/article/pii/S0168900222012268;
+
+M.K. Janiak, M.P.R. Waligórski, Can Low-Level Ionizing Radiation Do Us Any Harm?, Dose-Response, 21 (2023) 1-15, doi: 10.1177/15593258221148013, tekst pracy: https://journals.sagepub.com/doi/10.1177/15593258221148013;
+
+F. Kalholm, L. Grzanka, I. Toma‐Dasu, N. Bassler, Modeling RBE with other quantities than LET significantly improves prediction of in vitro cell survival for proton therapy, Med. Phys., 50 (2023) 651-659, doi: 10.1002/mp.16029, tekst pracy: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16029;
+
+2022
+****
+M. Baran, Z. Tabor, D. Kabat, M. Tulik, K. Jeleń, K. Rzecki, B. Forostianyi, K. Bałabuszek, R. Koziarski, M.P.R. Waligórski, Isodoses—a set theory-based patient-specific QA measure to compare planned and delivered isodose distributions in photon radiotherapy, Strahlenther. Onkol., 198 (2022) 849-861, doi: 10.1007/s00066-022-01964-9, tekst pracy: https://link.springer.com/article/10.1007/s00066-022-01964-9;
+D. Borys, (K. Brzeziński, J. Gajewski, R. Kopeć, P. Olko, P. Stasica, A. Ruciński) et al., ProTheRaMon—a GATE simulation framework for proton therapy range monitoring using PET imaging, Phys. Med. Biol., 67 (2022) 224002, doi: 10.1088/1361-6560/ac944c, tekst pracy: https://iopscience.iop.org/article/10.1088/1361-6560/ac944c;
+
+J.A. Briz, (M. Ciemała, A. Maj, P. Olko, W. Parol, A. Pędracka, B. Sowicki, M. Ziębliński) et al., Proton radiographs using position-sensitive silicon detectors and high-resolution scintillators, IEEE T. Nucl. Sci., 69 (2022) 696-702, doi: 10.1109/TNS.2022.3142618, tekst pracy: https://ieeexplore.ieee.org/document/9678958;
+
+M. De Saint-Hubert, J. Farah, Ma. Kłodowska, M.T. Romero-Expósito, K. Tymińska, V. Mares, P. Olko, L. Stolarczyk, S. Trinkl, The influence of nuclear models and Monte Carlo radiation transport codes on stray neutron dose estimations in proton therapy, Radiat. Meas., 150 (2022) 106693, doi: 10.1016/j.radmeas.2021.106693, tekst pracy: https://www.sciencedirect.com/science/article/pii/S1350448721002006;
+
+K.W. Fornalski, J.M. Cuttler, Y. Socol, M. Waligórski, M.K. Janiak, K. Deja, L. Mothersill, Professor Ludwik Dobrzyński (1941–2022)—The Obituary, Dose-Response, 20 (2022), doi: 10.1177/15593258221115592, tekst pracy: https://journals.sagepub.com/doi/full/10.1177/15593258221115592;
+
+M. Garbacz, (J. Gajewski, R. Kopeć, P. Olko, M. Rydygier, A. Ruciński) et al., Quantification of biological range uncertainties in patients treated at the Krakow proton therapy centre, Radiat. Oncol., 17 (2022) 50, doi: 10.1186/s13014-022-02022-5, tekst pracy: https://ro-journal.biomedcentral.com/articles/10.1186/s13014-022-02022-5;
+
+C. Hahn, (L. Grzanka) et al., Towards harmonizing clinical linear energy transfer (LET) reporting in proton radiotherapy: a European multi-centric study, Acta Oncol., 61 (2022) 206-214, doi: 10.1080/0284186X.2021.1992007, tekst pracy: https://www.tandfonline.com/doi/abs/10.1080/0284186X.2021.1992007?journalCode=ionc20;
+T. Horwacik, T. Kajdrowicz, L. Malinowski, T. Nowak, M. Korcyl, J. Swakoń, Porównanie parametrów wybranych stanowisk radioterapii protonowej nowotworów oka, Abstr. of XVII Kongres Polskiego Towarzystwa Fizyki Medycznej, Kraków, 30.09-02.10.2022, Kraków, 2022, p. 90, tekst pracy: https://indico.ifj.edu.pl/event/785/book-of-abstracts.pdf;
+
+Z. Knezevic, (L. Stolarczyk, K. Jeleń, R. Kopeć, D. Krzempek, N. Mojżeszek, P. Olko) et al., Out-of-Field Doses Produced by a Proton Scanning Beam Inside Pediatric Anthropomorphic Phantoms and Their Comparison With Different Photon Modalities, Front. Oncol., 12 (2022) 904563, doi: 10.3389/fonc.2022.904563, tekst pracy: https://www.frontiersin.org/articles/10.3389/fonc.2022.904563/full;
+
+P. Kukołowicz, P. Olko, Ochrona radiologiczna dla energetyki jądrowej – strategia badań i rozwoju, Abstr. of XVII Kongres Polskiego Towarzystwa Fizyki Medycznej, Kraków, 30.09-02.10.2022, Kraków, 2022, p. 62, tekst pracy: https://indico.ifj.edu.pl/event/785/book-of-abstracts.pdf;
+
+M. Majer, (R. Kopeć, D. Krzempek, K. Krzempek, N. Mojżeszek, L. Stolarczyk, P. Olko) et al., Out-of-field doses in pediatric craniospinal irradiations with 3D-CRT, VMAT, and scanning proton radiotherapy: A phantom study, Med. Phys., 49 (2022) 2672-2683, doi: 10.1002/mp.15493, tekst pracy: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15493;
+
+V. Meres, (K. Krzempek, N. Mojżeszek, L. Stolarczyk, P. Olko) et al., Neutron Radiation Dose Measurements in a Scanning Proton Therapy Room: Can Parents Remain Near Their Children During Treatment?, Front. Oncol., 12 (2022) 903706, doi: 10.3389/fonc.2022.903706, tekst pracy: https://www.frontiersin.org/articles/10.3389/fonc.2022.903706/full;
+
+S. Mianowski, (T. Kowalski, S. Kusyk, J. Mietelski, J. Swakoń, D. Wróbel) et al., Proton irradiation of SiPM arrays for POLAR-2, Exp. Astron., (2022) in print, doi: 10.1007/s10686-022-09873-6, tekst pracy: https://link.springer.com/article/10.1007/s10686-022-09873-6;
+
+A. Parisi, P. Olko, J. Swakoń, T. Horwacik, H. Jabłoński, L. Malinowski, T. Nowak, L. Struelens, F. Vanhavere, Microdosimetric characterization of a clinical proton therapy beam: comparison between simulated lineal energy distributions in spherical water targets and experimental measurements with a silicon detector, Phys. Med. Biol., 67 (2022) 015006, doi: 10.1088/1361-6560/ac4563, tekst pracy: https://iopscience.iop.org/article/10.1088/1361-6560/ac4563;
+
+A. Pędracka, B. Kiełtyka, Ka. Rawojć, L. Brandt, L. Mazur, T. Skóra, R. Kopeć, T. Kajdrowicz, E. Gora, K. Kisielewicz, Dose Distribution Comparison of Cerebrospinal Axis Irradiation. Helical Tomotherapy vs Proton Pencil Beam Scanning, Acta Phys. Pol. A, 142 (2022) 408-413, doi: 10.12693/APhysPolA.142.408, tekst pracy: http://przyrbwn.icm.edu.pl/APP/PDF/142/app142z3p18.pdf;
+
+ P. Sękowski, G. Saworska, I. Skwira-Chalot, A. Spyra, W. Szcześniak, T. Matulewicz, T. Horwacik, J. Swakoń, Reconstruction of gamma-ray source activity in a multiple samples set-up, Nucl. Instr. Meth. A, 1040 (2022) 167292, doi: 10.1016/j.nima.2022.167292,
+tekst pracy: https://www.sciencedirect.com/science/article/pii/S0168900222006167?via%3Dihub;
+
+Y. Socol, L. Feinendegen, K.W. Fornalski, M. Janiak, C. Mothersill, M.P.R. Waligórski,
+Professor Ludwik Dobrzyński 1941-2022, Int. J. Radiat. Biol., 98 (2022) 1397-1398, doi: 10.1080/09553002.2022.2038807, tekst pracy: https://www.tandfonline.com/doi/full/10.1080/09553002.2022.2038807;
+
+O. Sokol, (B. Orzechowska, J. Miszczyk, P. Olko) et al., In Vitro Measurements Of Proton RBE: A Multi-Centric Comparison Of Experimental Procedures And Results, Abstr. of the FLASH Radiotherapy and Particle Therapy Conference, 1-3 December 2021, in: Eur. J. Med. Phys., 94 2022, p. O112, tekst pracy: https://www.physicamedica.com/issue/S1120-1797(22)X0003-3;
+
+A. Toboła-Galus, J. Swakoń, P. Olko, Spread-out Bragg Peak in Spatially Fractionated Proton Therapy, Acta Phys. Pol. B Proc. Suppl., 15 (2022) 4-A3, doi: 10.5506/APhysPolBSupp.15.4-A3,tekst pracy: https://www.actaphys.uj.edu.pl/S/15/4-A3/pdf;
+
+O. Van Hoey, (L. Stolarczyk, N. Mojżeszek, M. Liszka, P. Olko) et al., Simulation and experimental verification of ambient neutron doses in a pencil beam scanning proton therapy room as a function of treatment plan parameters, Front. Oncol., 12 (2022) 903537, doi: 10.3389/fonc.2022.903537, tekst pracy: https://www.frontiersin.org/articles/10.3389/fonc.2022.903537;
+
+G. Zorloni, (R. Kopeć, P. Olko, L. Stolarczyk, J. Swakoń) et al., Joint EURADOS WG9-WG11 rem-counter intercomparison in a Mevion S250i proton therapy facility with Hyperscan pulsed synchrocyclotron, Phys. Med. Biol., 67 (2022) 075005, doi: 10.1088/1361-6560/ac5b9c, tekst pracy: https://iopscience.iop.org/article/10.1088/1361-6560/ac5b9c;
+
+G. Zorloni, (R. Kopeć, P. Olko, L. Stolarczyk, J. Swakoń) et al.,
+Eurados Rem-Counter Intercomparison at Maastro Proton Therapy Centre: Comparison with Literature Data, Radiat. Prot. Dosim., 198 (2022) 1471-1475, doi: 10.1093/rpd/ncac189,
+tekst pracy: https://academic.oup.com/rpd/advance-article/doi/10.1093/rpd/ncac189/6711423?login=true;
+
+
+2021
+****
+E.V. Bellinzona, (L. Grzanka) et al., Biological Impact of Target Fragments on Proton Treatment Plans: An Analysis Based on the Current Cross-Section Data and a Full Mixed Field Approach, Cancers, 13 (2021) 4768, doi: 10.3390/cancers13194768,
+tekst pracy: https://www.mdpi.com/2072-6694/13/19/4768;
+
+B. Błasiak, B. Tomanek, F.C.J.M. van Veggel, Obrazowanie molekularne nowotworu prostaty, Abstrakty z XIII Interdyscyplinarnej Konferencji Naukowej TYGIEL 2021 - "Interdyscyplinarność kluczem do rozwoju", Lublin, 25-28 Marca 2021, 2021, p. 60;
+
+A. Dash, B. Błasiak, B. Tomanek, A. Banerjee, S. Trudel, P. Latta, F.C.J.M. van Veggel, Colloidally Stable Monodisperse Fe Nanoparticles as T2 Contrast Agents for High-Field Clinical and Preclinical Magnetic Resonance Imaging,ACS Appl. Nano Mater., 4 (2021) 1235-1242, doi: 10.1021/acsanm.0c02848, tekst pracy: https://pubs.acs.org/doi/10.1021/acsanm.0c02848;
+
+A. Dash, B. Błasiak, B. Tomanek, P. Latta, F.C.J.M. van Veggel, Target-Specific Magnetic Resonance Imaging of Human Prostate Adenocarcinoma Using NaDyF4–NaGdF4 Core–Shell Nanoparticles, ACS Appl. Mater. Inter., 13 (2021) 24345-55, doi: 10.1021/acsami.0c19273,
+tekst pracy: https://pubs.acs.org/doi/10.1021/acsami.0c19273;
+
+
+M. De Saint-Hubert, F. Castellano, P. Leblans, P. Sterckx, S. Kodaira, J. Swakoń, L. de Freitas Nascimento, Characterization of 2D Al2O3:C,Mg radiophotoluminescence films in charged particle beams, Radiat. Meas., 141 (2021) 106518, doi: 10.1016/j.radmeas.2021.106518, tekst pracy: https://www.sciencedirect.com/science/article/pii/S1350448721000044?via%3Dihub#!;
+
+M. De Saint-Hubert, (B. Michalec, E. Pyszka, L. Stolarczyk, J. Swakoń, G. Foltyńska, A. Wochnik, R. Kopeć, P. Olko) et al., Characterization of passive dosimeters in proton pencil beam scanning – A EURADOS intercomparison for mailed dosimetry audits in proton therapy centres, Phys. Medica, 82 (2021) 134-143, doi: 10.1016/j.ejmp.2021.01.073,
+tekst pracy: https://www.sciencedirect.com/science/article/pii/S1120179721000764?via%3Dihub#!;
+
+J. Gajewski, (M. Garbacz, K. Czerska, K. Krzempek, R. Kopeć, N. Mojżeszek, M. Pawlik-Niedźwiecka, M. Rydygier, A. Skrzypek, A. Ruciński) et al., Commissioning of GPU-accelerated Monte Carlo code Fred for clinical applications in proton therapy, Front. Phys., 8 (2021) 567300, doi: 10.3389/fphy.2020.567300, tekst pracy: https://www.frontiersin.org/articles/10.3389/fphy.2020.567300/abstract;
+
+M. Garbacz, (J. Gajewski, R. Kopeć, P. Olko, M. Rydygier, A. Ruciński) et al., Study of relationship between dose, LET and the risk of brain necrosis after proton therapy for skull base tumors, Radiother. Oncol., 163 (2021) 143-149, doi: 10.1016/j.radonc.2021.08.015, tekst pracy: https://www.sciencedirect.com/science/article/pii/S0167814021067098#!;
+
+R.M. Harrison, (P. Olko, L. Stolarczyk) et al., EURADOS Strategic Research Agenda 2020: Vision for the Dosimetry of Ionising Radiation, Radiat. Prot. Dosim., 194 (2021) 42-56, doi: 10.1093/rpd/ncab063, tekst pracy: https://academic.oup.com/rpd/article/194/1/42/6275894;
+
+F. Kalholm, L. Grzanka, E. Traneus, N. Bassler, A systematic review on the usage of averaged LET in radiation biology for particle therapy, Radiother. Oncol., 161 (2021) 211-221, doi: 10.1016/j.radonc.2021.04.007, tekst pracy: https://www.sciencedirect.com/science/article/pii/S0167814021061892?via%3Dihub;
+
+M. Kalinowski, J. Baran, P. Weichbroth, The adaptive spatio-temporal clustering method in classifying direct labor costs for the manufacturing industry, Proc. of the Annual Hawaii International Conference on System Sciences, Volume 2020-January, 54th Annual Hawaii International Conference on System Sciences, HICSS 2021, 4 January 2021 - 8 January 2021, Grand Wailea, Maui, Hawaii, (2021) 236-243, doi: 10.24251/HICSS.2021.027, tekst pracy: https://scholarspace.manoa.hawaii.edu/handle/10125/70638; ISBN: 978-099813314-0;
+
+A. Maj, P. Olko, Fizyka jądrowa i radioterapia protonowa – 5 lat owocnego współistnienia w Centrum Cyklotronowym Bronowice, Book of Abstr. of the 47 Zjazd Fizyków Polskich, 19-23 września 2021, Bydgoszcz, 2021, p. 104, tekst pracy: https://47zfp.utp.edu.pl/wp-content/uploads/Ksiazka-abstraktow.pdf;
+
+D. McDonald, F. van Veggel, B. Tomanek, B. Błasiak, Analysis of CNR in molecular MRI using core/shell double contrast NPs, Book of Abstr. of the Multiscale Phenomena in Condensed Matter Online conference for young researchers, YOUNG MULTIS 2021, Kraków, 5-7 July 2021, 2021, p. 50, tekst pracy: https://indico.ifj.edu.pl/event/497/attachments/1351/2243/Book_of_Abstracts_YoungMultis2021.pdf;
+
+ Pa. Moskal, (J. Baran) et al., Simulating NEMA characteristics of the modular total-body J-PET scanner—an economic total-body PET from plastic scintillators, Phys. Med. Biol., 66 (2021) 175015, doi: 10.1088/1361-6560/ac16bd, tekst pracy: https://iopscience.iop.org/article/10.1088/1361-6560/ac16bd;
+
+A. Parisi, P. Olko, P. Bilski, S. Biderman, L. Oster, Y. Horowitz, Microdosimetric modeling of the relative efficiency of the optical absorption of LiF:Mg,Ti (TLD-100) detectors exposed to 1H and 4He ions, Radiat. Meas., 145 (2021) 106594, doi: 10.1016/j.radmeas.2021.106594, tekst pracy: https://www.sciencedirect.com/science/article/pii/S1350448721001086;
+
+M. Płódowska, (M. Kłosowski, P. Olko) et al, Small is beautiful: low activity alpha and gamma sources for small-scale radiation protection research experiments, Int. J. Radiat. Biol., 97 (2021) 541-552, doi: 10.1080/09553002.2021.1867925, tekst pracy: https://www.tandfonline.com/doi/full/10.1080/09553002.2021.1867925;
+
+A.R. Purchase, L. Vidarsson, K. Wachowicz, P. Liszkowski, H. Sun, G.E. Sarty, J.C. Sharp, B. Tomanek, A Short and Light, Sparse Dipolar Halbach Magnet for MRI, IEEE Access, 9 (2021) 95294-303, doi: 10.1109/ACCESS.2021.3093530, tekst pracy: https://ieeexplore.ieee.org/document/9468656;
+
+M. Sądel, J. Gajewski, U. Sowa, J. Swakoń, T. Kajdrowicz, P. Bilski, M. Kłosowski, A. Pędracka, T. Horwacik, 3D Dosimetry Based on LiMgPO4 OSL Silicone Foils: Facilitating the Verification of Eye-Ball Cancer Proton Radiotherapy, Sensors, 21 (2021) 6015, doi: 10.3390/s21186015, tekst pracy: https://www.mdpi.com/1424-8220/21/18/6015;
+
+P. Sękowski, A. Lisicka, G. Saworska, W. Szcześniak, T. Matulewicz, I. Skwira-Chalot, A. Spyra, T. Horwacik, J. Swakoń, J.W. Mietelski, Nuclear Reactions That Occur in Human Body During Proton Therapy, Acta Phys. Pol. A, 139 (2021) 454-456, doi: 10.12693/APhysPolA.139.454, tekst pracy: http://przyrbwn.icm.edu.pl/APP/PDF/139/app139z4p16.pdf;
+
+A. Wochnik, (L. Stolarczyk, R. Kopeć, N. Mojżeszek, E. Pyszka, J. Swakoń, P. Olko) et al., Out-of-field doses for scanning proton radiotherapy of shallowly located paediatric tumours—a comparison of range shifter and 3D printed compensator, Phys. Med. Biol., 66 (2021) 035012, doi: 10.1088/1361-6560/abcb1f, tekst pracy: https://iopscience.iop.org/article/10.1088/1361-6560/abcb1f;
+
+
+
 2020
 ****
 
