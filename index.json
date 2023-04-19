@@ -11,7 +11,7 @@
 	"title": "Projects",
 	"tags": [],
 	"description": "",
-	"content": " INSPIRE Infrastructure in Proton International Research\nNCBiR Lider PET technology for proton beam therapy range monitoring\nFNP Homing Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre\nProject TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProject PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProject POMOST - FNP, PO IG 2007-2013 EPR/alanine dosimetry for therapeutical ion beams\n"
+	"content": " EURO-LABS EURO-LABS supports Transnational Access (TA) to various facilities having energetic beams (protons, mesons, muons, electrons) and irradiation facilities in mixed hadron and g fields. More info you can find here\nINSPIRE Infrastructure in Proton International Research\nNCBiR Lider PET technology for proton beam therapy range monitoring\nFNP Homing Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre\nProject TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProject PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProject POMOST - FNP, PO IG 2007-2013 EPR/alanine dosimetry for therapeutical ion beams\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/wydarzenia/",
@@ -47,6 +47,13 @@
 	"tags": [],
 	"description": "",
 	"content": " mgr inż. Dominika Handzlik tel: +48 12 662 8415, +48 691 113 374\ne-mail: Dominika.Handzlik@ifj.edu.pl\n"
+},
+{
+	"uri": "https://grzanka.github.io/nz62www/proton/",
+	"title": "Proton irradiation",
+	"tags": [],
+	"description": "",
+	"content": "60 MeV proton irradiation station at the AIC-144 cyclotron facility We ofer: max. 60 MeV proton beam from the AIC-144 cyclotron broad range of beam energies and intensities short service terms precise dosimetry technical support Irradiation lines: Precise sample positioning (lasers, X-rays) Proton energies: 0-60 MeV Beam currents: up to 100 nA Dose rates: up to 10 Gy/s Fluence up to 10^13 p/cm^2 Visit our website for more information.\nContact proton.irradiation@ifj.edu.pl\nDepartment of Radiation Research and Proton Therapy\nThe Henryk Niewodniczański Institute of Nuclear Physics\nPolish Academy of Sciences\nKraków, Poland\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/categories/",

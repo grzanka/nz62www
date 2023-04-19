@@ -11,7 +11,7 @@
 	"title": "Projekty",
 	"tags": [],
 	"description": "",
-	"content": " INSPIRE Infrastructure in Proton International Research\nNCBiR Lider Technologia J-PET do monitorowania zasięgu wiązki w radioterapii protonowej\nFNP Homing Ocena niepewności zasięgu efektu biologicznego w celu poprawy skuteczności radioterapii protonowej w Centrum Cyklotronowym Bronowice\nProjekt TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProjekt PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProjekt POMOST - FNP, PO IG 2007-2013\nDozymetria EPR/alaninowa terapeutycznych wiązek jonowych\n"
+	"content": " EURO-LABS EURO-LABS wspiera międzynarodowy dostęp do stanowisk napromieniań protonami, mezonami, mionami i elektronami. Więcej informacji\nINSPIRE Infrastructure in Proton International Research\nNCBiR Lider Technologia J-PET do monitorowania zasięgu wiązki w radioterapii protonowej\nFNP Homing Ocena niepewności zasięgu efektu biologicznego w celu poprawy skuteczności radioterapii protonowej w Centrum Cyklotronowym Bronowice\nProjekt TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProjekt PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProjekt POMOST - FNP, PO IG 2007-2013\nDozymetria EPR/alaninowa terapeutycznych wiązek jonowych\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/pl/wydarzenia/",
@@ -47,6 +47,13 @@
 	"tags": [],
 	"description": "",
 	"content": " mgr inż. Dominika Handzlik tel: +48 12 662 8415, +48 691 113 374\ne-mail: Dominika.Handzlik@ifj.edu.pl\n"
+},
+{
+	"uri": "https://grzanka.github.io/nz62www/pl/proton/",
+	"title": "Stanowisko napromieniania",
+	"tags": [],
+	"description": "",
+	"content": "Stanowisko napromieniania wiązką protonową 60 MeV Oferujemy: wiązkę protonową o energii do 60 MeV z cyklotronu AIC-144 szeroki zakres energii i intensywności krótki czas oczekiwania dokładną dozymetrię wsparcie techniczne Właściwości: Precyzyjny system pozycjonowania Energie protonu: 0-60 MeV Prąd wiązki do 100 nA Moce dawki do 10 Gy/s Fluencje do 10^13 p/cm^2 Więcej informacji na naszej stronie.\nKontakt proton.irradiation@ifj.edu.pl\nZakład Badań Radiacyjnych i Radioterapii Protonowej\nInstytut Fizyki Jądrowej im. Henryka Niewodniczańskiego\nPolskiej Akademii Nauk\nul. Radzikowskiego 152\n31-342 Kraków\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/pl/categories/",
