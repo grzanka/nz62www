@@ -6,6 +6,13 @@ weight = 20
 
 <H3>W trakcie</H3>
 
+
+
+  * EURO-LABS
+  
+  EURO-LABS wspiera międzynarodowy dostęp do stanowisk napromieniań protonami, mezonami, mionami i elektronami. [Więcej informacji](https://web.infn.it/EURO-LABS/)
+
+
   * INSPIRE
 
   [Infrastructure in Proton International Research](https://inspire.ifj.edu.pl/)
