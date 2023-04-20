@@ -6,9 +6,9 @@ weight = 20
 
 <H3>Current</H3>
 
-  * EURO-LABS
+  * [EURO-LABS](https://web.infn.it/EURO-LABS/wp4-ta/)
   
-  EURO-LABS supports Transnational Access (TA) to various facilities having energetic beams (protons, mesons, muons, electrons) and irradiation facilities in mixed hadron and g fields.  [More info you can find here](https://web.infn.it/EURO-LABS/)
+  [EUROpean Laboratories for Accelerator Based Science](https://web.infn.it/EURO-LABS/)
 
 
   * INSPIRE
