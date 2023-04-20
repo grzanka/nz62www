@@ -4,13 +4,13 @@ description = ""
 weight = 20
 +++
 
-<H3>W trakcie</H3>
+<H3>Obecne</H3>
 
 
 
-  * EURO-LABS
+  * [EURO-LABS](https://web.infn.it/EURO-LABS/wp4-ta/)
   
-  EURO-LABS wspiera międzynarodowy dostęp do stanowisk napromieniań protonami, mezonami, mionami i elektronami. [Więcej informacji](https://web.infn.it/EURO-LABS/)
+  [EUROpean Laboratories for Accelerator Based Science](https://web.infn.it/EURO-LABS/)
 
 
   * INSPIRE
