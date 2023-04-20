@@ -30,9 +30,7 @@ proton.irradiation@ifj.edu.pl
 
 Zakład Badań Radiacyjnych i Radioterapii Protonowej
 
-Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego
-
-Polskiej Akademii Nauk
+Instytut Fizyki Jądrowej PAN
 
 ul. Radzikowskiego 152
 
