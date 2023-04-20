@@ -28,10 +28,10 @@ Visit our website for more information.
 ### Contact
 proton.irradiation@ifj.edu.pl
 
-Department of Radiation Research and Proton Therapy<br>
+Department of Radiation Research and Proton Therapy
 
-The Henryk Niewodniczański Institute of Nuclear Physics<br>
+Institute of Nuclear Physics PAN
 
-Polish Academy of Sciences<br>
+ul. Radzikowskiego 152
 
-Kraków, Poland<br>
+31-342 Kraków, Poland
