@@ -4,9 +4,9 @@ description = ""
 weight = 70
 +++
 
-## 60 MeV proton irradiation station at the AIC-144 cyclotron facility
+**60 MeV proton irradiation station at the AIC-144 cyclotron facility**
 
-### We ofer:
+We offer:
 
 - max. 60 MeV proton beam from the AIC-144 cyclotron
 - broad range of beam energies and intensities
@@ -14,7 +14,7 @@ weight = 70
 - precise dosimetry
 - technical support
 
-### Irradiation lines:
+Irradiation lines:
 
 - Precise sample positioning (lasers, X-rays)
 - Proton energies: 0-60 MeV
@@ -23,7 +23,7 @@ weight = 70
 - Fluence up to 10^13 p/cm^2
 
 
-Visit our website for more information.
+Visit [our website](http://proton-irradiation.ifj.edu.pl) for more information.
 
 ### Contact
 proton.irradiation@ifj.edu.pl
