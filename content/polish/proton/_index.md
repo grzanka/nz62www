@@ -4,9 +4,9 @@ description = ""
 weight = 70
 +++
 
-## Stanowisko napromieniania wiązką protonową 60 MeV
+**Stanowisko napromieniania wiązką protonową 60 MeV**
 
-### Oferujemy:
+Oferujemy:
 
 - wiązkę protonową o energii do 60 MeV z cyklotronu AIC-144
 - szeroki zakres energii i intensywności
@@ -15,7 +15,7 @@ weight = 70
 - wsparcie techniczne
 
 
-### Właściwości:
+Właściwości:
 
 - Precyzyjny system pozycjonowania
 - Energie protonu: 0-60 MeV
@@ -23,7 +23,7 @@ weight = 70
 - Moce dawki do 10 Gy/s
 - Fluencje do 10^13 p/cm^2
 
-Więcej informacji na naszej stronie.
+Więcej informacji na [naszej stronie](http://proton-irradiation.ifj.edu.pl).
 
 ### Kontakt
 proton.irradiation@ifj.edu.pl
