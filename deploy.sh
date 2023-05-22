@@ -3,31 +3,11 @@
 # Exit on any error
 set -e
 
-# Check if python3 is installed
-if ! command -v python3 &> /dev/null
-then
-    echo "Python3 could not be found"
-    exit
-fi
-
-# Check if venv directory exists and create venv enviroment if it doesn't
-if [ ! -d "venv" ]
-then
-    echo "Creating virtual environment"
-    python3 -m venv venv
-fi
-
-# Activate virtual environment
-source venv/bin/activate
-
-# Install and upgrade dependencies (mkdocs and others)
-pip install --requirement requirements.txt --upgrade
-
 # Remove old builds of mkdocs site
 rm -rf site
 
-# Build mkdocs site
-mkdocs build
+# Build hugo site
+hugo
 
 # Import all enviroment variables from .env file if it exists
 set -o allexport
@@ -90,6 +70,3 @@ else
     lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "cls -al $LFTP_PATH; quit"
 
 fi
-
-# Deactivate virtual environment
-deactivate
