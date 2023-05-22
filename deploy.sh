@@ -3,8 +3,8 @@
 # Exit on any error
 set -e
 
-# Remove old builds of mkdocs site
-rm -rf site
+# Remove old builds of hugo site
+rm -rf public
 
 # Build hugo site
 hugo
@@ -31,7 +31,7 @@ elif [ -z "$LFTP_PATH" ]
 then
     echo "LFTP_PATH environment variable is not set, skipping upload"
 else
-    echo "Uploading site to server from $PWD/site to $LFTP_PATH on $LFTP_HOST:$LFTP_PORT as $LFTP_USER"
+    echo "Uploading site to server from $PWD/public to $LFTP_PATH on $LFTP_HOST:$LFTP_PORT as $LFTP_USER"
 
     # we start first by removing all previously uploaded files and directories from server
     # as LFTP doesn't support recursive removal of files and directories, 
@@ -51,8 +51,8 @@ else
     echo "Checking if all files were removed"
     lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "cls -al $LFTP_PATH; quit"
 
-    # upload all files and directories from local site/ directory to server
-    lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "mirror -R site/ $LFTP_PATH; quit"
+    # upload all files and directories from local public/ directory to server
+    lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "mirror -R public/ $LFTP_PATH; quit"
     
     echo "Checking if all files were created"
     lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "cls -al $LFTP_PATH; quit"
@@ -61,7 +61,7 @@ else
     # all the uploaded files with get null permissions for "others" (0x640 for files and 0x750 for directories)
     # to be able to serve the page we need to change the permissions of all files and directories to 0x644 and 0x755 respectively
     # again, LFTP doesn't support recursive chmod, so we need to do it one by one, separately for files and directories
-    cd site
+    cd public
     find . -type f -exec lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "chmod o+r $LFTP_PATH{}; quit" \;
     find . -type d -exec lftp --env-password sftp://$LFTP_USER@$LFTP_HOST:$LFTP_PORT -e "chmod o+rx $LFTP_PATH{}; quit" \;
     cd ..
