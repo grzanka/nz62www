@@ -5,6 +5,7 @@
     <link>https://grzanka.github.io/nz62www/wydarzenia/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://grzanka.github.io/nz62www/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://grzanka.github.io/nz62www/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
