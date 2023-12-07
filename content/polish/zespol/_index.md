@@ -15,7 +15,6 @@ Zespół:
 
   * [dr Leszek Grzanka](https://www.ifj.edu.pl/phone/ed_person.php?id=141&lang=pl)
   * [mgr inż. Tomasz Kajdrowicz](https://www.ifj.edu.pl/phone/ed_person.php?id=187&lang=pl)
-  * [mgr Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=pl)
   * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
   * [prof. dr hab. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=pl)
   * [dr hab. inż. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=pl)
@@ -31,6 +30,4 @@ Doktoranci:
   * [mgr inż. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=pl)
 
 Magistranci:
-  * Arkadiusz Ćwikła
-  * Krzysztof Misan
-  * Kamil Wierciak
+  * Piotr Rzeźnik
