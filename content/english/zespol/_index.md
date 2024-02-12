@@ -24,10 +24,12 @@ Team:
   
 PhD students:
 
-  * [M.Sc. Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=en)
   * [M.Sc. Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=en)
-  * [M.Sc., Eng. Agata Toboła-Galus](https://www.ifj.edu.pl/phone/ed_person.php?id=833&lang=en)
   * [M.Sc., Eng. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=en)
 
 MSc students:
   * Piotr Rzeźnik
+
+BSc students:
+  * Szymon Bednorz
+  * Krzysztof Pęczek

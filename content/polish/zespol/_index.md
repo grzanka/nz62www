@@ -24,10 +24,12 @@ Zespół:
   
 Doktoranci:
 
-  * [mgr Tomasz Kowalski](https://www.ifj.edu.pl/phone/ed_person.php?id=1149&lang=pl)
   * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
-  * [mgr inż. Agata Toboła-Galus](https://www.ifj.edu.pl/phone/ed_person.php?id=833&lang=pl)
   * [mgr inż. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=pl)
 
 Magistranci:
   * Piotr Rzeźnik
+
+Dyplomanci:
+  * Szymon Bednorz
+  * Krzysztof Pęczek
