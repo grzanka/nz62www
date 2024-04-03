@@ -33,3 +33,6 @@ MSc students:
 BSc students:
   * Szymon Bednorz
   * Krzysztof Pęczek
+
+ Volunteers:
+   * M.Sc., Eng. Anna Pędracka

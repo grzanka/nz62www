@@ -33,3 +33,6 @@ Magistranci:
 Dyplomanci:
   * Szymon Bednorz
   * Krzysztof Pęczek
+
+Wolontariusze:
+  * mgr inż. Anna Pędracka
