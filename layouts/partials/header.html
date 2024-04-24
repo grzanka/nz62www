@@ -1,0 +1,6 @@
+{{ $headerPage := .Site.GetPage "page" (print "_header." .Lang ".md") }}
+{{ if $headerPage }}
+  {{ $headerPage.Content }}
+{{ else }}
+  <a class="baselink" href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
+{{ end }}
