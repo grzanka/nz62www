@@ -25,6 +25,10 @@ languageCode = "en-EN"
 defaultContentLanguage = 'pl'
 defaultContentLanguageInSubdir = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
