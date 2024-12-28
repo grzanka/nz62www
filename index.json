@@ -4,14 +4,14 @@
 	"title": "Team",
 	"tags": [],
 	"description": "",
-	"content": "Department Head: Assoc. Prof. Jan Swakoń\nphone: +48 12 662 8087\ne-mail: Jan.Swakon@ifj.edu.pl\nTeam:\nM.Sc. Wojciech Fryt Ph.D. Leszek Grzanka M.Sc., Eng. Tomasz Kajdrowicz M.Sc. Sebastian Kusyk Prof. Paweł Olko M.Sc., Eng. Piotr Płatek Assoc. Prof. Jan Swakoń Prof. Bogusław Tomanek Prof. Emeritus Michael Waligórski M.Sc., Eng. Damian Wróbel PhD students:\nM.Sc. Sebastian Kusyk M.Sc., Eng. Damian Wróbel MSc students:\nPiotr Rzeźnik BSc students:\nSzymon Bednorz Krzysztof Pęczek Volunteers:\nM.Sc., Eng. Anna Pędracka "
+	"content": "Department Head: Assoc. Prof. Jan Swakoń\nphone: +48 12 662 8087\ne-mail: Jan.Swakon@ifj.edu.pl\nTeam:\nM.Sc. Wojciech Fryt Ph.D. Leszek Grzanka M.Sc., Eng. Tomasz Kajdrowicz M.Sc. Sebastian Kusyk Prof. Paweł Olko M.Sc., Eng. Piotr Płatek Assoc. Prof. Jan Swakoń Prof. Bogusław Tomanek Prof. Emeritus Michael Waligórski M.Sc., Eng. Damian Wróbel PhD students:\nM.Sc. Sebastian Kusyk M.Sc., Eng. Damian Wróbel MSc students:\nMaciej Nessel BSc students:\nSzymon Bednorz Krzysztof Pęczek Volunteers:\nM.Sc., Eng. Anna Pędracka "
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/projekty/",
 	"title": "Projects",
 	"tags": [],
 	"description": "",
-	"content": " EURO-LABS EUROpean Laboratories for Accelerator Based Science\nINSPIRE Infrastructure in Proton International Research\nNCBiR Lider PET technology for proton beam therapy range monitoring\nFNP Homing Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre\nProject TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProject PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProject POMOST - FNP, PO IG 2007-2013 EPR/alanine dosimetry for therapeutical ion beams\n"
+	"content": "Current\rEURO-LABS EUROpean Laboratories for Accelerator Based Science\nINSPIRE Infrastructure in Proton International Research\nNCBiR Lider PET technology for proton beam therapy range monitoring\nFNP Homing Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre\nCompleted\rProject TC IAEA (POL6009) Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie\nProject PL0273 - fundusze NMF i MF EOG Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci\nProject POMOST - FNP, PO IG 2007-2013 EPR/alanine dosimetry for therapeutical ion beams\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/wydarzenia/",
@@ -74,7 +74,7 @@
 	"title": "Proton Radiotherapy Group",
 	"tags": [],
 	"description": "",
-	"content": " The Department of Radiation Research and Proton Radiotherapy is engaged in the design and application of beams of protons and heavier ions in cancer radiotherapy, experimental radiobiology and radiation damage of solid-state systems.\nWe develop radiobiological models and systems of ion beam transport in order to design radiobiological experiments and to interpret their results. Proton and ion beam radiotherapy planning systems are also under development, applying our models of beam transport and our radiobiology-based models of cancer radiotherapy.\nWe study experimentally the radiation damage to electronic systems and solid state samples exposed to energetic proton beams.\nWe study and develop the dosimetry of novel radiotherapy modalities, such as active, spatially fractionated proton beam radiotherapy. In our experiments we use a variety of detectors and individual phantoms, some of which are prepared by 3-D printing technology.\n"
+	"content": " Institute of Nuclear Physics Polish Academy of Sciences\nDepartment of Radiation Research and Proton Radiotherapy The Department of Radiation Research and Proton Radiotherapy is engaged in the design and application of beams of protons and heavier ions in cancer radiotherapy, experimental radiobiology and radiation damage of solid-state systems.\nWe develop radiobiological models and systems of ion beam transport in order to design radiobiological experiments and to interpret their results. Proton and ion beam radiotherapy planning systems are also under development, applying our models of beam transport and our radiobiology-based models of cancer radiotherapy.\nWe study experimentally the radiation damage to electronic systems and solid state samples exposed to energetic proton beams.\nWe study and develop the dosimetry of novel radiotherapy modalities, such as active, spatially fractionated proton beam radiotherapy. In our experiments we use a variety of detectors and individual phantoms, some of which are prepared by 3-D printing technology.\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/tags/",
