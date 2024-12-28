@@ -30,7 +30,7 @@ Doktoranci:
   * [mgr inż. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=pl)
 
 Magistranci:
-  * Piotr Rzeźnik
+  * Maciej Nessel
 
 Dyplomanci:
   * Szymon Bednorz

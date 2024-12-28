@@ -30,7 +30,7 @@ PhD students:
   * [M.Sc., Eng. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=en)
 
 MSc students:
-  * Piotr Rzeźnik
+  * Maciej Nessel
 
 BSc students:
   * Szymon Bednorz
