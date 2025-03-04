@@ -32,9 +32,5 @@ Doktoranci:
 Magistranci:
   * Maciej Nessel
 
-Dyplomanci:
-  * Szymon Bednorz
-  * Krzysztof Pęczek
-
 Wolontariusze:
   * mgr inż. Anna Pędracka

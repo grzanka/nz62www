@@ -32,9 +32,5 @@ PhD students:
 MSc students:
   * Maciej Nessel
 
-BSc students:
-  * Szymon Bednorz
-  * Krzysztof Pęczek
-
  Volunteers:
    * M.Sc., Eng. Anna Pędracka
