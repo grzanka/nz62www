@@ -1,16 +1,11 @@
-+++
-title = "Deklaracja dostępności"
-date = 2025-03-04
-+++
-
 # Deklaracja dostępności
 
 Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk (IFJ PAN) zobowiązuje się zapewnić dostępność swojej strony internetowej zgodnie z ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848).
 
 ## Informacje o stronie
 - **Adres strony:** [https://www.ifj.edu.pl/dept/no6/nz62/www/](https://www.ifj.edu.pl/dept/no6/nz62/www/)
-- **Data publikacji:** [wprowadź datę]
-- **Data ostatniej istotnej aktualizacji:** [wprowadź datę]
+- **Data publikacji:** 2025.03.04
+- **Data ostatniej istotnej aktualizacji:** 2025.03.04
 
 ## Status zgodności
 Strona jest **częściowo zgodna** z wymaganiami dostępności z następujących powodów:
@@ -29,8 +24,6 @@ W przypadku napotkania problemów z dostępnością prosimy o kontakt:
 
 📧 **E-mail:** [dostepnosc@ifj.edu.pl](mailto:dostepnosc@ifj.edu.pl)  
 📞 **Telefon:** (+48 12) 662 80 31  
-
-Mogą Państwo także zażądać dostępu do niedostępnych treści w alternatywnym formacie. Odpowiemy na Państwa zgłoszenie niezwłocznie, **nie później niż w ciągu 7 dni**, lub poinformujemy, kiedy problem zostanie rozwiązany (nie później niż **2 miesiące** od dnia zgłoszenia).
 
 ## Skargi i odwołania
 W przypadku, gdy nie jesteśmy w stanie zapewnić dostępności cyfrowej żądanej treści, mają Państwo prawo do wniesienia skargi do Rzecznika Praw Obywatelskich ([www.rpo.gov.pl](https://www.rpo.gov.pl)).
