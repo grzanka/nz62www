@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zakład Badań Radiacyjnych i Radioterapii Protonowej on </title>
+    <title>Zakład Badań Radiacyjnych i Radioterapii Protonowej on NZ62 IFJ PAN</title>
     <link>https://grzanka.github.io/nz62www/pl/</link>
-    <description>Recent content in Zakład Badań Radiacyjnych i Radioterapii Protonowej on </description>
+    <description>Recent content in Zakład Badań Radiacyjnych i Radioterapii Protonowej on NZ62 IFJ PAN</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <atom:link href="https://grzanka.github.io/nz62www/pl/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://grzanka.github.io/nz62www/pl/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://grzanka.github.io/nz62www/pl/_header/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://www.ifj.edu.pl/dept/no6/nz62/www/logo_ifj_kolor.jpg&#34; width=&#34;100&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://www.ifj.edu.pl/dept/no6/nz62/www/logo_ifj_kolor.jpg&#34;&#xA;    alt=&#34;Logo Instytutu Fizyki Jądrowej PAN&#34; width=&#34;100&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

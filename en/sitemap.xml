@@ -98,6 +98,18 @@
                 href="https://grzanka.github.io/nz62www/proton/"
                 />
   </url><url>
+    <loc>https://grzanka.github.io/nz62www/accessibility/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://grzanka.github.io/nz62www/pl/accessibility/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grzanka.github.io/nz62www/accessibility/"
+                />
+  </url><url>
     <loc>https://grzanka.github.io/nz62www/categories/</loc>
     <xhtml:link
                 rel="alternate"

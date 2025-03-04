@@ -39,7 +39,7 @@
 	"title": "Symulacje komputerowe",
 	"tags": [],
 	"description": "",
-	"content": "W BUDOWIE\n"
+	"content": " yaptide Interfejs Web : interfejs webowy dla kodów symulacji transportu cząstek (z obsługą Fluka i SHIELD-HIT12A)\nlibamtrack\nInterfejs Web z funkcjami obliczeniowymi do przewidywania odpowiedzi detektora i skuteczności radiobiologicznej w wiązkach ciężkich naładowanych cząstek.\nPyTRiP98\nBiblioteka Python do pracy z badawczymi systemami TPS TRiP98 i VOXELPLAN.\nEksperymentalny interfejs graficzny\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/pl/kontakt/",
@@ -54,6 +54,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Stanowisko napromieniania wiązką protonową 60 MeV\nOferujemy:\nwiązkę protonową o energii do 60 MeV z cyklotronu AIC-144 szeroki zakres energii i intensywności krótki czas oczekiwania dokładną dozymetrię wsparcie techniczne Właściwości:\nPrecyzyjny system pozycjonowania Energie protonu: 0-60 MeV Prąd wiązki do 100 nA Moce dawki do 10 Gy/s Fluencje do 10^13 p/cm^2 Więcej informacji na naszej stronie.\nKontakt proton.irradiation@ifj.edu.pl\nZakład Badań Radiacyjnych i Radioterapii Protonowej\nInstytut Fizyki Jądrowej PAN\nul. Radzikowskiego 152\n31-342 Kraków\n"
+},
+{
+	"uri": "https://grzanka.github.io/nz62www/pl/accessibility/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Deklaracja dostępności Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk (IFJ PAN) zobowiązuje się zapewnić dostępność swojej strony internetowej zgodnie z ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848).\nInformacje o stronie Adres strony: https://www.ifj.edu.pl/dept/no6/nz62/www/ Data publikacji: 2025.03.04 Data ostatniej istotnej aktualizacji: 2025.03.04 Status zgodności Strona jest częściowo zgodna z wymaganiami dostępności z następujących powodów:\nNiektóre obrazy nie mają opisów alternatywnych. Niektóre linki mogą nie być wystarczająco opisowe dla czytników ekranu. W niektórych sekcjach występują niewielkie problemy z kontrastem kolorów. Działania na rzecz poprawy dostępności Dokładamy wszelkich starań, aby poprawić dostępność naszej strony internetowej. Planowane działania obejmują:\nDodanie opisów alternatywnych (alt) do wszystkich obrazów. Upewnienie się, że wszystkie linki mają jasne i zrozumiałe opisy. Przeprowadzenie pełnego audytu zgodności ze standardami WCAG 2.1. Informacje zwrotne i kontakt W przypadku napotkania problemów z dostępnością prosimy o kontakt:\n📧 E-mail: dostepnosc@ifj.edu.pl\n📞 Telefon: (+48 12) 662 80 31\nSkargi i odwołania W przypadku, gdy nie jesteśmy w stanie zapewnić dostępności cyfrowej żądanej treści, mają Państwo prawo do wniesienia skargi do Rzecznika Praw Obywatelskich (www.rpo.gov.pl).\n"
 },
 {
 	"uri": "https://grzanka.github.io/nz62www/pl/categories/",
