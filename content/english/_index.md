@@ -17,5 +17,5 @@ We study experimentally the radiation damage to electronic systems and solid sta
 
 We study and develop the dosimetry of novel radiotherapy modalities, such as active, spatially fractionated proton beam radiotherapy. In our experiments we use a variety of detectors and individual phantoms, some of which are prepared by 3-D printing technology.
 
-{{< figure class="alignright" src="sprp_logo_bare.jpg" width="300" >}}
+{{< figure class="alignright" src="sprp_logo_bare.jpg" width="300" alt="SPRP logo">}}
 ---
