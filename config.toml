@@ -1,6 +1,6 @@
 baseURL = "https://www.ifj.edu.pl/dept/no6/nz62/www/"
 #baseURL = ""
-##title = "Zakład Badań Radiacyjnych i Radioterapii Protonowej"
+title = "NZ62 IFJ PAN"
 theme = "docdock"
 themesdir = "themes"
 pygmentsCodeFences = true
