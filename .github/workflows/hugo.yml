@@ -1,4 +1,6 @@
 name: Hugo site CI
+permissions:
+  contents: write
 
 on:
   push:
