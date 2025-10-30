@@ -27,10 +27,8 @@ Zespół:
 Doktoranci:
 
   * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
+  * [mgr inż. Piotr Płatek](https://www.ifj.edu.pl/phone/ed_person.php?id=1312&lang=pl)
   * [mgr inż. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=pl)
 
 Magistranci:
-  * Maciej Nessel
-
-Wolontariusze:
-  * mgr inż. Anna Pędracka
+  * Aleksandra Smela

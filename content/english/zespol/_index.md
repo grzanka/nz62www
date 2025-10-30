@@ -27,10 +27,8 @@ Team:
 PhD students:
 
   * [M.Sc. Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=en)
+  * [M.Sc., Eng. Piotr Płatek](https://www.ifj.edu.pl/phone/ed_person.php?id=1312&lang=en)
   * [M.Sc., Eng. Damian Wróbel](https://www.ifj.edu.pl/phone/ed_person.php?id=1148&lang=en)
 
 MSc students:
-  * Maciej Nessel
-
- Volunteers:
-   * M.Sc., Eng. Anna Pędracka
+  * Aleksandra Smela
