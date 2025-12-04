@@ -19,6 +19,7 @@ Zespół:
   * [mgr Sebastian Kusyk](https://www.ifj.edu.pl/phone/ed_person.php?id=1146&lang=pl)
   * [prof. dr hab. Paweł Olko](https://www.ifj.edu.pl/phone/ed_person.php?id=382&lang=pl)
   * [mgr inż. Piotr Płatek](https://www.ifj.edu.pl/phone/ed_person.php?id=1312&lang=pl)
+  * [mgr inż. Paweł Rzeźnik](https://www.ifj.edu.pl/phone/ed_person.php?id=1413&lang=pl)
   * [dr hab. inż. Jan Swakoń](https://www.ifj.edu.pl/phone/ed_person.php?id=497&lang=pl)
   * [prof dr hab. Bogusław Tomanek](https://www.ifj.edu.pl/phone/ed_person.php?id=717&lang=pl)
   * prof. dr hab. Michael Waligórski (emerytowany)

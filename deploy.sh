@@ -7,7 +7,7 @@ set -e
 rm -rf public
 
 # Build hugo site
-./hugo
+hugo
 
 # Import all enviroment variables from .env file if it exists
 set -o allexport
