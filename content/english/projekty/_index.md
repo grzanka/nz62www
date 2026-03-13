@@ -6,35 +6,22 @@ weight = 20
 
 <H3>Current</H3>
 
-  * [EURO-LABS](https://web.infn.it/EURO-LABS/wp4-ta/)
-  
-  [EUROpean Laboratories for Accelerator Based Science](https://web.infn.it/EURO-LABS/)
-
-
-  * INSPIRE
-
-  [Infrastructure in Proton International Research](https://inspire.ifj.edu.pl/en/)
-
-
-  * NCBiR Lider
-
-  [PET technology for proton beam therapy range monitoring](https://www.ifj.edu.pl/dept/no6/nz62/ar/)
-
-  * FNP Homing
-
-  [Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre](https://www.ifj.edu.pl/dept/no6/nz62/ar/)
+  * EURO-LABS: [EUROpean Laboratories for Accelerator Based Science](https://web.infn.it/EURO-LABS/)
 
 
 <H3>Completed</H3>
 
-  * Project TC IAEA (POL6009)
 
-   Budowa stanowiska do radioterapii protonowej nowotworów oka w Krakowie
+  * INSPIRE: [Infrastructure in Proton International Research](https://inspire.ifj.edu.pl/en/)
 
-  * Project PL0273 - fundusze NMF i MF EOG
 
-  Badania parametrów fizycznych wiązki protonowej stosowanej w radioterapii oka ze szczególnym uwzględnieniem możliwości leczenia nowotworów gałki ocznej u dzieci
+  * NCBiR Lider: PET technology for proton beam therapy range monitoring
 
-  * Project POMOST - FNP, PO IG 2007-2013
+  * FNP Homing: Quantification of biological range uncertainties towards an improved patient treatment in CCB Cracow proton beam therapy centre
 
-  EPR/alanine dosimetry for therapeutical ion beams
+
+  * Project TC IAEA (POL6009): Construction of a proton therapy facility for eye tumors in Krakow
+
+  * Project PL0273 - NMF and MF EOG funds: Studies of physical parameters of the proton beam used in eye radiotherapy, with particular emphasis on the possibility of treating eye tumors in children
+
+  * Project POMOST - FNP, PO IG 2007-2013: EPR/alanine dosimetry for therapeutical ion beams
