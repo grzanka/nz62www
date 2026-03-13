@@ -7,11 +7,12 @@ weight = 20
 <H3>Obecne</H3>
 
 
-
   * [EURO-LABS](https://web.infn.it/EURO-LABS/wp4-ta/)
   
   [EUROpean Laboratories for Accelerator Based Science](https://web.infn.it/EURO-LABS/)
 
+
+<H3>Zrealizowane</H3>
 
   * INSPIRE
 
@@ -19,13 +20,12 @@ weight = 20
 
   * NCBiR Lider
 
-  [Technologia J-PET do monitorowania zasięgu wiązki w radioterapii protonowej](https://www.ifj.edu.pl/dept/no6/nz62/ar/)
+  Technologia J-PET do monitorowania zasięgu wiązki w radioterapii protonowej
 
   * FNP Homing
 
-  [Ocena niepewności zasięgu efektu biologicznego w celu poprawy skuteczności radioterapii protonowej w Centrum Cyklotronowym Bronowice](https://www.ifj.edu.pl/dept/no6/nz62/ar/)
+  Ocena niepewności zasięgu efektu biologicznego w celu poprawy skuteczności radioterapii protonowej w Centrum Cyklotronowym Bronowice
 
-<H3>Zrealizowane</H3>
 
   * Projekt TC IAEA (POL6009)
 
