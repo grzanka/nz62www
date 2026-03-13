@@ -6,7 +6,7 @@ The Henryk Niewodniczański Institute of Nuclear Physics of the Polish Academy o
 ### Website Information
 - **Website address:** [https://www.ifj.edu.pl/dept/no6/nz62/www/](https://www.ifj.edu.pl/dept/no6/nz62/www/)
 - **Publication date:** 2025.03.04
-- **Last significant update:** 2025.03.04
+- **Last significant update:** 2026.03.13
 
 ### Compliance Status
 The website is **partially compliant** with accessibility requirements due to the following issues:
@@ -18,13 +18,51 @@ The website is **partially compliant** with accessibility requirements due to th
 - Videos published before the Digital Accessibility Act came into effect do not have captions for people with hearing disabilities.
 - Images and graphics published before the Digital Accessibility Act came into effect do not have descriptions for blind or visually impaired users.
 
-### Feedback and Contact Information
-If you encounter any accessibility issues on our website, please contact us:
-
-📧 **Email:** [dostepnosc@ifj.edu.pl](mailto:dostepnosc@ifj.edu.pl)  
-📞 **Phone:** (+48 12) 662 80 31  
+### Preparation of the declaration
 
 The declaration was prepared based on self-assessment.
 
-### Legal Remedies
-If we are unable to provide digital accessibility to requested content, you have the right to file a complaint with the Commissioner for Human Rights ([www.rpo.gov.pl](https://www.rpo.gov.pl)).
+### Feedback and contact data
+
+In case of accessibility problems with the website, please contact us.
+
+The contact person is **Agata Flis**:
+
+📧 **Email:** [dostepnosc@ifj.edu.pl](mailto:dostepnosc@ifj.edu.pl)  
+📞 **Phone:** 12 662 80 31
+
+The same manner of contact can be used to submit requests for inaccessible information and to file complaints about the failure to provide accessibility.
+
+Anyone has the right to request that the digital accessibility of a website or some element thereof be ensured. You can also request that information is made available in alternative forms, such as reading a digitally inaccessible document or describing the contents of a film without audio description.
+
+The request should include:
+
+- data of the person submitting the request,
+- indication concerning which website is involved,
+- method of contact.
+
+If the requesting person reports the need to receive information in an alternative form, he/she should also specify the convenient form of receiving this information.
+
+The public entity should execute the request immediately, no later than within 7 days. If it is not possible to meet this deadline, the public entity shall immediately inform when it will be possible to execute the request, but the deadline shall not be longer than 2 months. If ensuring digital accessibility is not possible, the public entity may propose an alternative way to access the information.
+
+### Handling of requests and complaints about accessibility
+
+If the entity refuses to comply with a request to provide accessibility or alternative access to information, a person making the request may file a complaint about digital accessibility of the website or some element thereof.
+
+If the above mentioned procedure has been exhausted, a complaint can also be sent to the Commissioner for Human Rights ([www.rpo.gov.pl](https://www.rpo.gov.pl)).
+
+### Other information
+
+#### Architectural accessibility
+
+The Henryk Niewodniczański Institute of Nuclear Physics Polish Academy of Sciences is located at ul. Radzikowskiego 152, 31-342 Kraków.
+
+[Detailed description of architectural accessibility](https://www.ifj.edu.pl/dostepnosc/dostepnosc-architektoniczna.php)
+
+#### Communication and information accessibility
+
+There is no possibility of using a sign-language translator via electronic means of communication.
+
+The building can be entered with an assistance dog.
+
+There are no induction loops in the building.
