@@ -31,9 +31,9 @@ The contact person is **Agata Flis**:
 📧 **Email:** [dostepnosc@ifj.edu.pl](mailto:dostepnosc@ifj.edu.pl)  
 📞 **Phone:** 12 662 80 31
 
-The same manner of contact can be used to submit requests for inaccessible information and to file complaints about the failure to provide accessibility.
+The same contact methods can be used to submit requests for inaccessible information and to file complaints about the failure to provide accessibility.
 
-Anyone has the right to request that the digital accessibility of a website or some element thereof be ensured. You can also request that information is made available in alternative forms, such as reading a digitally inaccessible document or describing the contents of a film without audio description.
+Everyone has the right to request that digital accessibility be ensured for a website or any of its elements. You can also request that information be made available in alternative forms, such as reading a digitally inaccessible document or describing the contents of a film without audio description.
 
 The request should include:
 
@@ -41,7 +41,7 @@ The request should include:
 - indication concerning which website is involved,
 - method of contact.
 
-If the requesting person reports the need to receive information in an alternative form, he/she should also specify the convenient form of receiving this information.
+If the requesting person reports the need to receive information in an alternative form, they should also specify the convenient form of receiving this information.
 
 The public entity should execute the request immediately, no later than within 7 days. If it is not possible to meet this deadline, the public entity shall immediately inform when it will be possible to execute the request, but the deadline shall not be longer than 2 months. If ensuring digital accessibility is not possible, the public entity may propose an alternative way to access the information.
 
@@ -49,7 +49,7 @@ The public entity should execute the request immediately, no later than within 7
 
 If the entity refuses to comply with a request to provide accessibility or alternative access to information, a person making the request may file a complaint about digital accessibility of the website or some element thereof.
 
-If the above mentioned procedure has been exhausted, a complaint can also be sent to the Commissioner for Human Rights ([www.rpo.gov.pl](https://www.rpo.gov.pl)).
+If the above-mentioned procedure has been exhausted, a complaint can also be sent to the Commissioner for Human Rights ([www.rpo.gov.pl](https://www.rpo.gov.pl)).
 
 ### Other information
 

@@ -8,6 +8,6 @@ weight = 50
 
 * [https://libamtrack.github.io](https://libamtrack.github.io/web/) : interfejs webowy z funkcjami obliczeniowymi do przewidywania odpowiedzi detektora i skuteczności radiobiologicznej w wiązkach ciężkich naładowanych cząstek.
 
-* PyTRiP98 :[Biblioteka Python](https://github.com/pytrip/pytrip) do pracy z badawczymi systemami TPS TRiP98 i VOXELPLAN oraz [eksperymentalny interfejs graficzny](https://github.com/pytrip/pytripgui)
+* PyTRiP98: [Biblioteka Python](https://github.com/pytrip/pytrip) do pracy z badawczymi systemami TPS TRiP98 i VOXELPLAN oraz [eksperymentalny interfejs graficzny](https://github.com/pytrip/pytripgui)
 
 * [https://shieldhit.org](https://shieldhit.org) : kod Monte Carlo SHIELD-HIT12A do symulacji transportu ciężkich jonów
