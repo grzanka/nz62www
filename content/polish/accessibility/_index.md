@@ -5,8 +5,8 @@ Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk
 
 ### Informacje o stronie
 - **Adres strony:** [https://www.ifj.edu.pl/dept/no6/nz62/www/](https://www.ifj.edu.pl/dept/no6/nz62/www/)
-- **Data publikacji:** 2025.03.04
-- **Data ostatniej istotnej aktualizacji:** 2026.03.13
+- **Data publikacji:** 2021.02.16
+- **Data ostatniej istotnej aktualizacji:** 2026.04.02
 
 ### Status zgodności
 Strona jest **częściowo zgodna** z wymaganiami dostępności z następujących powodów:
