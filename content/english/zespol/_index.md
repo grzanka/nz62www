@@ -33,3 +33,7 @@ PhD students:
 
 MSc students:
   * Aleksandra Smela
+
+BSc students:
+  * Bartosz Janikuła
+  * Tomasz Karpiński

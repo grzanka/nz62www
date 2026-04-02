@@ -5,8 +5,8 @@ The Henryk Niewodniczański Institute of Nuclear Physics of the Polish Academy o
 
 ### Website Information
 - **Website address:** [https://www.ifj.edu.pl/dept/no6/nz62/www/](https://www.ifj.edu.pl/dept/no6/nz62/www/)
-- **Publication date:** 2025.03.04
-- **Last significant update:** 2026.03.13
+- **Publication date:** 2021.02.16
+- **Last significant update:** 2026.04.02
 
 ### Compliance Status
 The website is **partially compliant** with accessibility requirements due to the following issues:

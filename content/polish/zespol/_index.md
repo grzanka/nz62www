@@ -33,3 +33,7 @@ Doktoranci:
 
 Magistranci:
   * Aleksandra Smela
+
+Licencjanci:
+  * Bartosz Janikuła
+  * Tomasz Karpiński
